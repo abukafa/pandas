@@ -1,1 +1,8 @@
+pandas
 pyarrow
+streamlit
+matplotlib
+altair
+plotly
+numpy
+ipykernel
