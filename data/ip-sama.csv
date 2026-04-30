@@ -1,0 +1,770 @@
+No,ID,Name,Browser,OS,IP,Lokasi,Lokasi
+1,00002401,IMAM  ABI  REREN,Dalvik/2.1.0 (Linux; U; Android 11; CPH2209 Build/RP1A.200720.011),Android,114.79.4.250,"-6.1764246, 106.9353622","Jl. Tipar Cakung Blok Amit No.11 Cakung Barat, Kecamatan Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia, 13910"
+2,00036147,ARIEF HERCAHYANTO,Chrome 136.0.0.0,Linux,114.79.0.16,"-6.1771141, 106.8308035","RRFJ+587, RT.5/RW.2, Gambir, Central Jakarta City, Jakarta 10110, Indonesia"
+3,00079444,"RUDI HARTADI, SE.",Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+4,00094376,NUR ROCHMAH,Chrome 142.0.0.0,Android,202.65.225.8,,
+5,00115711,KHOIRUL ANAM,Chrome 111.0.0.0,Android,114.79.0.16,"-5.3792049, 105.2445519","J6CV+8RC, Jl. Purnawirawan Raya, Gedong Meneng, Kec. Rajabasa, Kota Bandar Lampung, Lampung 35147, Indonesia"
+6,00116605,ARISTI DARU SIWI,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+7,00119684,"EKO SETIAWAN, S.SI",Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+8,00141957,SUTIKNO,Dalvik/2.1.0 (Linux; U; Android 11; CPH2239 Build/RP1A.200720.011),Android,114.79.4.250,"-5.5418259, 105.5889831","FH5Q+7HH Candipuro/Titiwangi, Candipuro, South Lampung Regency, Lampung, Indonesia, 35356"
+9,00149910,BINTANG MUHAMMAD ANAK SAFA,Dalvik/2.1.0 (Linux; U; Android 14; TECNO LH8n Build/UP1A.231005.007),Android,114.79.0.16,"-6.5693072, 106.8469798","Jl. Ir H Juanda No.76 Sentul Bogor, Kecamatan Babakan Madang, Kabupaten Bogor, Jawa Barat, Indonesia, 16810"
+10,00194120,FIPTILOLI,Chrome 115.0.0.0,Android,114.79.5.36,"-0.2640145, 100.2696521","P7P9+HW4, Tigo Balai, Matur, Agam Regency, West Sumatra, Indonesia"
+11,00226343,SALMIAH,Chrome 142.0.0.0,Android,202.65.239.9,UNKNOWN,
+12,00234050,YURNALIS,Dalvik/2.1.0 (Linux; U; Android 10; vivo 1935 Build/QP1A.190711.020),Android,116.254.97.223,"3.5971148, 108.0853136","H3WM+WP Serantas, , Natuna Regency, Riau Islands, Indonesia,"
+13,00244370,WARTONO,Chrome 143.0.0.0,Android,202.65.238.247,,
+14,00255927,RUSDA,Chrome 136.0.0.0,Windows 10,116.254.97.223,,
+15,00257385,ROSA BAGUSTRI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+16,00265263,ROSYIDAWATI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+17,00318876,"MUHAMMAD AINI, S.PD.I., MM",Chrome 143.0.0.0,Android,202.65.238.247,,
+18,00327495,ASEP JUANGGA WIJAYA,Chrome 142.0.0.0,Android,116.254.97.121,,
+19,00329877,DILLA SRIWAHYUNI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+20,00332133,FARUK ADRA'IE,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+21,00338525,HAMROWI,Chrome 131.0.0.0,Android,202.125.100.79,"-7.3478031, 110.6446176","MJ3V+2RF, Jl. Raya Karanggede - Kedungjati, Dusun 1, Klari, Kec. Karanggede, Kabupaten Boyolali, Jawa Tengah 57381, Indonesia"
+22,00339510,TANDRA SULA,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+23,00342375,SUPRIYADI,Chrome 135.0.0.0,Windows 10,114.79.4.250,UNKNOWN,
+24,00344054,BC HNI AMUNTAI,Chrome 140.0.0.0,Android,116.254.97.121,"-6.7455583, 107.6627773","7M37+Q4 Nagrak, Subang Regency, West Java, Indonesia"
+25,00352950,NGATINI,Chrome 131.0.0.0,Android,202.125.100.79,"-7.3478034, 110.6446147","MJ3V+2RF, Jl. Raya Karanggede - Kedungjati, Dusun 1, Klari, Kec. Karanggede, Kabupaten Boyolali, Jawa Tengah 57381, Indonesia"
+26,00359819,RONALDY,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+27,00363402,"YENI HERLINA, SKM",Chrome 127.0.0.0,Android,114.79.0.16,"-2.9425077, 104.5354866","3G4P+X5 Lalang Sembawa, Banyuasin Regency, South Sumatra, Indonesia"
+28,00365900,SOPIYAH,Chrome 143.0.0.0,Android,202.65.238.247,,
+29,00368379,SAEPUDIN,Dalvik/2.1.0 (Linux; U; Android 11; CPH2349 Build/RP1A.200720.011),Android,114.79.0.16,"-6.1001275, 106.6968169","Jl. Kp. Belakang No.7 Kamal, Kecamatan Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta, Indonesia, 11810"
+30,00374030,ZAID MARHI NUGRAHA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+31,00378615,RAHMAD AFRIANI,Chrome 129.0.0.0,Android,116.254.97.223,UNKNOWN,
+32,00385081,EKAWIRYA SYAHPUTRA,Chrome 143.0.0.0,Android,202.65.238.247,,
+33,00389571,ELLY,Dalvik/2.1.0 (Linux; U; Android 12; 22120RN86G Build/SP1A.210812.016),Android,114.79.5.36,"-6.4428112, 106.7912441","Jl. Sedap Malam IV No.11 Ragajaya, Kecamatan Bojonggede, Kabupaten Bogor, Jawa Barat, Indonesia, 16920"
+34,00390630,LILIS SURYANI,Dalvik/2.1.0 (Linux; U; Android 11; 2201116TG Build/RP1A.200720.011),Android,114.79.4.250,"-0.2985061, 100.3752216","Gg. Swadaya No.64 Campago Ipuh, Kecamatan Mandiangin Koto Selayan, Kota Bukittinggi, Sumatera Barat, Indonesia, 26137"
+35,00391924,SURAMTO,Chrome 131.0.0.0,Android,202.125.100.79,"-7.3478032, 110.644614","MJ3V+2RF, Jl. Raya Karanggede - Kedungjati, Dusun 1, Klari, Kec. Karanggede, Kabupaten Boyolali, Jawa Tengah 57381, Indonesia"
+36,00397478,ASMIR,Dalvik/2.1.0 (Linux; U; Android 11; vivo 2007 Build/RP1A.200720.012),Android,114.79.5.36,"-2.8871449, 104.3939466","497V+3G2 Pangkalan Balai, Kecamatan Banyuasin III, Kabupaten Banyuasin, Sumatera Selatan, Indonesia, 30911"
+37,00413540,LAILA ISTIQOMAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+38,00424992,MUHAMAD SYUKRI,Chrome 143.0.0.0,Android,114.79.5.36,,
+39,00431484,ARIANI,Chrome 125.0.0.0,Android,114.79.5.36,UNKNOWN,
+40,00436841,INDRA CANDRA ADITIA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+41,00445994,MARIEZI ARIESNA DEWI,Chrome 120.0.0.0,Android,114.79.4.250,"-0.4055584, 100.5986222","HHVX+RFG, Sungayang, Tanah Datar Regency, West Sumatra 27294, Indonesia"
+42,00509929,FITRI PRATIWI,Chrome 135.0.0.0,Windows 10,116.254.97.223,,
+43,00513712,IMAM FAISAL,Chrome 132.0.0.0,Android,114.79.0.16,"0.5943376, 101.8038358","HRV3+QHQ, Rawang Kao, Lubuk Dalam, Siak Regency, Riau 28671, Indonesia"
+44,00515979,MUHAMMAD JORDAN MAHESWARA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+45,00525217,ERYANTO WAHYUDI,Chrome 143.0.0.0,Android,114.79.4.250,"-3.256314, 105.3125696","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+46,00535038,RIKI CHANDRA KELANA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+47,00537492,"KHAEDONI,SH",Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+48,00537549,YUNI SETIYAWATI,Chrome 143.0.0.0,Android,114.79.5.36,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+49,00539221,NURINAYAH,Dalvik/2.1.0 (Linux; U; Android 13; SM-A325F Build/TP1A.220624.014),Android,114.79.4.250,"-6.1472664, 106.8543583","The Mansion Bougenville Office Building Tower Fontana Pademangan Timur, Kecamatan Pademangan, Jakarta Utara, Daerah Khusus Ibukota Jakarta, Indonesia, 14410"
+50,00544313,REREH NURWENING,Dalvik/2.1.0 (Linux; U; Android 11; vivo 1901 Build/RP1A.200720.012),Android,114.79.4.250,"-2.9932968, 104.7581172","2Q45+M7X 22 Ilir, Kecamatan Bukit Kecil, Kota Palembang, Sumatera Selatan, Indonesia, 30113"
+51,00545971,SAMSUL HADI,Chrome 108.0.0.0,Android,114.79.0.16,"-5.2974194, 104.9845465","PX2M+XR3, Sukoharjo III, Sukoharjo, Pringsewu Regency, Lampung 35674, Indonesia"
+52,00549829,PRAYOGI,Chrome 108.0.0.0,Android,114.79.4.250,UNKNOWN,
+53,00593393,AFRIMAWATI,Chrome 142.0.0.0,Android,202.65.225.8,,
+54,00613385,DEDE IHWAN FAUZI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+55,00622958,MUHAMMAD RIZQI,Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+56,00623494,AGUS SALIM,Chrome 143.0.0.0,Android,202.65.238.247,,
+57,00635464,"MARDIANI,AM.KEB",Chrome 139.0.0.0,Android,116.254.97.223,"-3.5100033, 120.8998111","FVQX+XW6, Jl. Poros Lasusua - Ranteangin, Tojabi, Kec. Lasusua, Kabupaten Kolaka Utara, Sulawesi Tenggara 93916, Indonesia"
+58,00658188,RATIH TOATIH,Chrome 120.0.0.0,Android,114.79.5.36,"-6.5943121, 106.7907568","GF , Stasiun Kereta API Bogor , JL. Nyi Raja Permas, Cibogor , Bogor Tengah , 16124 Bogor , Jawa Barat, RT.04/RW.06, Cibogor, Bogor Tengah, Bogor City, West Java 16124, Indonesia"
+59,00658566,HELMA RIANTI,Chrome 131.0.0.0,Android,116.254.97.121,UNKNOWN,
+60,00662410,MULYADI,Chrome 126.0.0.0,Android,114.79.4.250,"-6.3532639, 107.6591636","JMW5+PHF, Dusun Sengon Lio, RT.41/RW.19, Sukamandijaya, Kec. Ciasem, Kabupaten Subang, Jawa Barat, Indonesia"
+61,00665989,DINY ARISKA NOVITASARI,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+62,00690984,EDNI WAHYUNINGTYAS PANGASTUTI,Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+63,00696945,NENENG SYAHWATI,Dalvik/2.1.0 (Linux; U; Android 10; Infinix X680B Build/QP1A.190711.020),Android,114.79.0.16,"-6.1908919, 106.8835179","Gg. H. Tabri II No.1 Rawamangun, Kecamatan Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia, 13220"
+64,00697394,NANA KARYANA,Dalvik/2.1.0 (Linux; U; Android 10; Redmi Note 7 MIUI/V12.5.3.0.QFGMIXM),Android,114.79.5.36,"-6.7671264, 108.165588","65M8+67C Kadipaten, Kadipaten, Majalengka Regency, West Java, Indonesia, 45452"
+65,00708138,MUHAMAD SYAWAL. S.AG,Chrome 143.0.0.0,Android,202.65.239.9,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+66,00709909,MARSONO,Chrome 120.0.0.0,Android,114.79.0.16,"-6.2625707, 106.5468852","PGQW+2PP, Curug Kulon, Curug, Tangerang Regency, Banten 15810, Indonesia"
+67,00715091,FITRIAH OHORELLA,Dalvik/2.1.0 (Linux; U; Android 13; SM-A245F Build/TP1A.220624.014),Android,114.79.0.16,"-6.115111, 106.8878819","Jl. Kebon Bawang XI No.31A Kebon Bawang, Kecamatan Tanjung Priok, Jakarta Utara, Daerah Khusus Ibukota Jakarta, Indonesia, 14320"
+68,00725001,DEWULAN,Chrome 125.0.0.0,Android,114.79.0.16,"-6.3613854, 107.646649","JJQW+GWG, Rancajaya, Patokbeusi, Subang Regency, West Java 41263, Indonesia"
+69,00730147,EMA,Dalvik/2.1.0 (Linux; U; Android 13; CPH2565 Build/TP1A.220905.001),Android,116.254.97.121,"1.3499887, 109.1853051","85XP+X4G Baru River, Teluk Keramat, Sambas Regency, West Kalimantan, Indonesia, 79465"
+70,00730785,TITI SUHERLIH,Chrome 126.0.0.0,Android,114.79.0.16,"-6.6276377, 106.6720544","9MFC+8QF, Jalan Babakan, Gunung Menyan, Kec. Pamijahan, Kabupaten Bogor, Jawa Barat 16620, Indonesia"
+71,00747547,JUANA,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+72,00765185,NURHASANUDIN,Dalvik/2.1.0 (Linux; U; Android 11; 21061119AG Build/RP1A.200720.011),Android,114.79.0.16,"-6.1907783, 106.88344","Jl. Pratekan No.4 Rawamangun, Kecamatan Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia, 13220"
+73,00766760,ERNIZA,Dalvik/2.1.0 (Linux; U; Android 14; CPH2387 Build/SP1A.210812.016),Android,202.125.100.79,"0.740952, 103.354597","P9R3+7VG Sawang, Kundur Barat, Karimun Regency, Riau Islands, Indonesia, 29662"
+74,00769265,MARDIANA,Dalvik/2.1.0 (Linux; U; Android 10; SM-M205G Build/QP1A.190711.020),Android,114.79.4.250,"-3.3599263, 104.6263024","Jl.pahlawan abusama no 001 ds 2 desa Tanjung Atap Barat, Kecamatan Tanjung Batu, Kabupaten Ogan Ilir, Sumatera Selatan, Indonesia, 30664"
+75,00775155,CHAIRIL ANWAR,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+76,00775298,LILIK IRSYADIAWATI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+77,00779333,ANI FATIHATULMASLAHAH,Chrome 111.0.0.0,Android,114.79.0.16,UNKNOWN,
+78,00787994,SITI NURUL FAJRIYAH,Chrome 143.0.0.0,Android,202.65.239.9,,
+79,00793948,PARIDAH DAMANIK S.PD,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+80,00797193,MIFTAHUDDIN,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570583, 105.3132343","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+81,00802416,IMAS SUMIRAT,Dalvik/2.1.0 (Linux; U; Android 9; vivo 1904 Build/PPR1.180610.011),Android,114.79.5.36,"-6.5650485, 106.7161958","CPM8+WFR Cihideung Ilir, Ciampea, Bogor Regency, West Java, Indonesia, 16620"
+82,00808106,YOGIE AULIA FRANANDA,Chrome 143.0.0.0,Android,202.65.238.247,,
+83,00811208,WARSINAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+84,00822192,DIANAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132354","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+85,00825220,ELWALEID MAKHSUM,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+86,00843040,WA ODE SALMINA,Dalvik/2.1.0 (Linux; U; Android 9; vivo 1902 Build/PPR1.180610.011),Android,114.79.4.250,"-6.21316, 106.5950383","Jl. Jenggala Raya No.30 Bencongan Indah, Kecamatan Kelapa Dua, Kabupaten Tangerang, Banten, Indonesia, 15138"
+87,00866339,KAMALLUDIN,Chrome 143.0.0.0,Android,116.254.97.223,,
+88,00870529,SOLEHATI NINGSIH,Chrome 143.0.0.0,Linux,202.65.225.242,UNKNOWN,
+89,00885828,SITI ROHANI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+90,00910715,DLIYA ZUHAL AMNAN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+91,00921547,HADIDJAH PARRY,Dalvik/2.1.0 (Linux; U; Android 13; SM-A245F Build/TP1A.220624.014),Android,114.79.0.16,"-6.1151151, 106.8878799","3 Kebon Bawang, Kecamatan Tanjung Priok, Jakarta Utara, Daerah Khusus Ibukota Jakarta, Indonesia, 14320"
+92,00922161,MARIANA SILVANIA HAZHIRAH,Chrome 143.0.0.0,Android,"103,228,242,222","-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+93,00925306,ASEP,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570581, 105.3132337","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+94,00928109,ERRINA SEPTI KUSUMANINGRUM,Chrome 134.0.0.0,Android,202.65.225.8,"-6.3511294, 107.0995159","Perumahan bumi cikarang asri blok e5/ no.27, Ciantra, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530, Indonesia"
+95,00929319,IDAH NURIPAH,Dalvik/2.1.0 (Linux; U; Android 11; Infinix X698 Build/RP1A.200720.011),Android,114.79.0.16,"-6.9082676, 108.4876425","3FRQ+H3M Maniskidul, Jalaksana, Kuningan Regency, West Java, Indonesia, 45554"
+96,00931814,NURHAYATI M TAHER,Chrome 142.0.0.0,Android,202.65.225.8,,
+97,00935115,EKA SETIYONINGSIH,Chrome 124.0.0.0,Android,114.79.4.250,UNKNOWN,
+98,00938538,"AGPIT MUJIYANTARI, SE",Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+99,00946765,MINIYARTI,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+100,00950824,BAYU VIRYAVAN,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+101,00960774,SILVA FAUZIYAH NADAWI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+102,00962332,ZAINAL ABIDIN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+103,00963386,ROCHAMIN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132335","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+104,00963715,RUSNI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+105,00965125,SOPIAN,Dalvik/2.1.0 (Linux; U; Android 12; CPH2127 Build/RKQ1.211119.001),Android,116.254.97.223,"3.5971163, 108.0853185","H3WM+WP Serantas, , Natuna Regency, Riau Islands, Indonesia,"
+106,00971696,SALMAN ALFARISI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+107,00985708,NUZUL HIDAYAT,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+108,00986382,SURYATI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+109,00990540,"SAIFUL BAHRI, SE",Chrome 143.0.0.0,Android,202.65.238.247,,
+110,00990756,ENENG,Chrome 143.0.0.0,Android,202.65.238.122,,
+111,00999417,LERRYANA RANJANI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+112,01005011,YESSI RUSSENDY,Chrome 143.0.0.0,Android,116.254.97.223,UNKNOWN,
+113,01016536,EDWIN ADNAN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+114,01017341,MOHAMAD TOHANI,Chrome 139.0.0.0,Android,114.79.4.250,"-6.2024308, 106.9619478","Gg. Kabel No.58, RT.1/RW.16, Pulo Gebang, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13950, Indonesia"
+115,01020580,BULAN KURNIA FITRI,Chrome 142.0.0.0,Android,202.65.225.8,,
+116,01026192,SAFRUDIN,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+117,01029994,UMI INAYATI AMALIA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+118,01041561,RATNA TRI PURWANI,Chrome 143.0.0.0,Android,116.254.97.223,,
+119,01047489,M MUJADDID AZKA AZIZI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+120,01052382,ANNISA NURJANI,Dalvik/2.1.0 (Linux; U; Android 10; CPH1821 Build/QP1A.190711.020),Android,114.79.5.36,"0.3957767, 101.2539733","97W3+PP5 Sungai Pinang, Kecamatan Tambang, Kabupaten Kampar, Riau, Indonesia, 28458"
+121,01060633,ASUNAH,Dalvik/2.1.0 (Linux; U; Android 12; V2111 Build/SP1A.210812.003),Android,114.79.0.16,"-6.1329559, 106.7020433","VP82+PRF Pegadungan, Kecamatan Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta, Indonesia, 11830"
+122,01070809,SITI WINANTI,Chrome 129.0.0.0,Android,114.79.5.36,"-6.4039513, 106.9829608","kp sawah rt 006 rw 002 no 169, Cileungsi Kidul, Kec. Cileungsi, Kabupaten Bogor, Jawa Barat 16820, Indonesia"
+123,01101356,ENA SUMA INDRAWATI M.PD,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132343","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+124,01109883,RINTO ADI PURNOMO,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+125,01112049,ZALIYAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+126,01119040,SRI AFRILIYANI,Chrome 143.0.0.0,Android,116.254.97.223,UNKNOWN,
+127,01132250,FENI ROZANA,Dalvik/2.1.0 (Linux; U; Android 13; CPH2387 Build/TP1A.220905.001),Android,114.79.0.16,"-5.4933091, 105.3309861","G84J+PFJ Srengsem, Panjang, Bandar Lampung City, Lampung, Indonesia,"
+128,01134808,SITI SHOLEHAT,Chrome 113.0.0.0,Android,114.79.5.36,"-6.2952371, 106.9932339","Jl. Caringin No.5, RT.002/RW.005, Bojong Menteng, Kec. Rawalumbu, Kota Bks, Jawa Barat 17117, Indonesia"
+129,01136048,MOH. NAWIR GOZALI,Chrome 143.0.0.0,Android,116.254.97.223,UNKNOWN,
+130,01151740,"SISCA  MARDELITA, S.SI.T, M.KES",Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+131,01154403,ZULKIFLI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+132,01168295,AIQBAL AMMAR,Safari 604.1,iOS,202.65.225.8,UNKNOWN,
+133,01172933,SRI RAHMA SARI,Chrome 137.0.0.0,Android,114.79.0.16,"-6.2028582, 106.7709378","Jl. Anggrek No.72, RT.8/RW.2, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530, Indonesia"
+134,01179089,MIRA SILFIA,Chrome 143.0.0.0,Android,202.65.239.9,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+135,01183078,DEDDY BRATA PAMELA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+136,01184315,ASNIAR ANGGI LUBIS,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2559987, 105.3133014","P8V7+JH8, Tulung Selapan Ilir, Tulung Selapan, Ogan Komering Ilir Regency, South Sumatra 30655, Indonesia"
+137,01185155,MULSILFIA HANDAYANI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+138,01186827,RATNA SISWATI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+139,01189258,SOLEHAH,Chrome 143.0.0.0,Android,202.65.238.122,,
+140,01191307,SUSI MULYATI ARIES,Dalvik/2.1.0 (Linux; U; Android 6.0; CPH1609 Build/MRA58K),Android,114.79.5.36,"-0.2830647, 100.3708729","Pakoan Indah Gadut, Kecamatan Tilatang Kamang, Kota Bukittinggi, Sumatera Barat, Indonesia, 26111"
+141,01193560,SUTIK MARIATI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+142,01212485,TRY PURWIYANTI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+143,01228888,NURUL HIDAYAH,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+144,01230060,NIZAR RAHMAN SYAHAB,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+145,01235617,RINA SYARIFUDIN,Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6833B Build/TP1A.220624.014),Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01 Tulung Selapan Ilir, Kecamatan Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan, Indonesia, 30655"
+146,01236622,MELI SEPRIANI,Chrome 117.0.0.0,Android,114.79.5.36,"-0.3490522, 100.2240918","M62F+74J, Batang River, Tanjung Raya, Agam Regency, West Sumatra 26471, Indonesia"
+147,01245862,MIRA,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+148,01252292,NENDI SUGINA,Chrome 143.0.0.0,Android,202.65.238.122,,
+149,01276663,RESPATYANTO,Firefox 146.0,Android,202.65.238.247,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+150,01278411,JULITA SARI,Chrome 143.0.0.0,Android,202.65.225.242,,
+151,01279127,JEFFRI AGUS BAGTIAN,Chrome 143.0.0.0,Android,202.65.238.247,,
+152,01281586,MOH ALFATIF ALFIEN ALFAROUQ M,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+153,01285907,AKHMAD NURDIN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+154,01288004,WAHYUNI,Chrome 138.0.0.0,Android,114.79.0.16,,
+155,01291652,ZULAEHA,Dalvik/2.1.0 (Linux; U; Android 12; V2022 Build/SP1A.210812.003),Android,114.79.5.36,"-6.3880547, 106.8545487","Jl. Cidurian I No.213 Bakti Jaya, Kecamatan Sukmajaya, Kota Depok, Jawa Barat, Indonesia, 16418"
+156,01301896,IMAM TOID,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570317, 105.3132266","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+157,01303118,DJOKO RAHENDO,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+158,01308059,BC HNI LAMPUNG SELATAN,Dalvik/2.1.0 (Linux; U; Android 11; CPH2269 Build/RP1A.200720.011),Android,114.79.0.16,"-5.5900999, 105.5171464","CG58+WRP Sidodadi, Sidomulyo, South Lampung Regency, Lampung, Indonesia, 35353"
+159,01355770,IMAM ZAELANI,Chrome 138.0.0.0,Android,114.79.5.36,"-2.8901769, 104.6702608","4M6C+69P, Jl. Ps., Talang Betutu, Kec. Sukarami, Kab. Banyuasin, Sumatera Selatan 30961, Indonesia"
+160,01355961,SITI BARLIANI,Chrome 138.0.0.0,Android,114.79.0.16,"-6.567245, 107.7541831","Jl. MT. Haryono No.21a, Cigadung, Kec. Subang, Kabupaten Subang, Jawa Barat 41211, Indonesia"
+161,01366104,AMALIA,Chrome 119.0.0.0,Android,114.79.0.16,"-6.435825, 106.8805092","HV7J+J6W, Gg. Langgar, Tapos, Kec. Tapos, Kota Depok, Jawa Barat 16457, Indonesia"
+162,01368445,JITO PURWONO,Chrome 138.0.0.0,Android,114.79.5.36,"-2.8901769, 104.6702608","4M6C+69P, Jl. Ps., Talang Betutu, Kec. Sukarami, Kab. Banyuasin, Sumatera Selatan 30961, Indonesia"
+163,01371409,EKA ANIS SAFITRI,Chrome 130.0.0.0,Android,"103,228,242,222","-1.5219349, 110.4615048","FFH6+6J Lembah Hijau I, Ketapang Regency, West Kalimantan, Indonesia"
+164,01377283,TITIN SETIYANI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+165,01379252,NITA  WAHYUNI,Firefox 115.0,Windows 7,116.254.97.121,"-0.8170141, 109.7801792","5QMJ+537, Upt Sei Kerawang, Batu Ampar, Kubu Raya Regency, West Kalimantan 78385, Indonesia"
+166,01380276,NENENG HARTATI,Chrome 108.0.0.0,Android,114.79.0.16,UNKNOWN,
+167,01398795,MUSTARI,Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+168,01423317,RINI DIANASARI,Dalvik/2.1.0 (Linux; U; Android 12; V2027 Build/SP1A.210812.003),Android,114.79.4.250,"-6.7433831, 108.5351663","Jalan Kandang Perahu Masjid Al Munawwaroh Karyamulya, Kecamatan Kesambi, Kota Cirebon, Jawa Barat, Indonesia, 45135"
+169,01448203,EFRIZA RIZQI HARISMA PUTRI,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+170,01448924,ISMAWATI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+171,01467561,OJAT DAROJATULLOH,Dalvik/2.1.0 (Linux; U; Android 9; CPH2083 Build/PPR1.180610.011),Android,114.79.4.250,"-5.3533131, 105.1856774","J5WP+M5W Hutan, Kecamatan Negeri Katon, Kabupaten Pesawaran, Lampung, Indonesia, 35366"
+172,01468603,SALIS AMINATU RODHIYAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+173,01475374,RESPATYANTO,Chrome 143.0.0.0,Android,116.254.97.223,UNKNOWN,
+174,01488495,UMAR FARUQ MAULUDI SYA'BANA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+175,01495083,FARKHAN,Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6833B Build/TP1A.220624.014),Android,114.79.0.16,"-6.6696677, 106.8700183","Jl. Vimala Hills Cluster Kilimanjaro No.2 Sukamahi, Kecamatan Megamendung, Kabupaten Bogor, Jawa Barat, Indonesia, 16770"
+176,01498123,ANWAR FUADI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570581, 105.3132356","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+177,01498193,PEMI JUNIARTI,Chrome 106.0.0.0,Android,114.79.4.250,UNKNOWN,
+178,01509319,SITI MARLINA,Chrome 104.0.0.0,Android,114.79.5.36,"-6.6325095, 106.8383028","Jalan Babadak No.19, RT.05/RW.09, Katulampa, Kec. Bogor Tim., Kota Bogor, Jawa Barat 16144, Indonesia"
+179,01512768,GITA AYU MERDEKAWATI,Chrome 143.0.0.0,Android,116.254.97.223,,
+180,01514929,JEFRI MUKHTAR HANIF,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+181,01520582,"IDHA DWI YUNI LESTARI, AM.KEB",Chrome 143.0.0.0,Android,116.254.97.223,,
+182,01520596,SIGIT SETIA BUDI,Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+183,01545457,SITI SHOUMI AFIATIN,Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6833B Build/TP1A.220624.014),Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01 Tulung Selapan Ilir, Kecamatan Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan, Indonesia, 30655"
+184,01547603,RACHMAWINDA,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+185,01550058,SAGITA VERY ANGGRIAWAN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+186,01550567,JAMILIANI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+187,01557471,"FITRIANA KHASANAH, AMD.KEB",Chrome 143.0.0.0,Android,202.65.238.247,,
+188,01562828,TEDI HIMAWAN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+189,01567539,ERNA,Chrome 143.0.0.0,Android,116.254.97.223,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+190,01572828,NUR HIDAYATI,Chrome 143.0.0.0,Android,116.254.97.223,,
+191,01572852,ASEP NURJAMAN,Chrome 142.0.0.0,Android,116.254.97.121,,
+192,01580105,ANDI NASDHALIA ANASYA,Dalvik/2.1.0 (Linux; U; Android 13; RMX3765 Build/TP1A.220624.014),Android,202.65.238.122,"1.3155933, 116.926233","8W7G+QJ8 Miau Baru, Kombeng, East Kutai Regency, East Kalimantan, Indonesia, 75555"
+193,01592098,ZULIANTO,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+194,01598027,ANDRI IBRAHIM,Chrome 143.0.0.0,Android,202.125.100.79,,
+195,01612940,MUH HASYIM AR,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570494, 105.3132286","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+196,01613866,NURPAHMI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+197,01641306,KHIYAROTUN NASLAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+198,01653759,DIAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+199,01660331,"SAEPUL ILMAN, ST",Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+200,01664408,SYAMSUL RUSDI,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2559987, 105.3133014","P8V7+JH8, Tulung Selapan Ilir, Tulung Selapan, Ogan Komering Ilir Regency, South Sumatra 30655, Indonesia"
+201,01666496,IKA SURJANDARU,Dalvik/2.1.0 (Linux; U; Android 13; SM-A236E Build/TP1A.220624.014),Android,202.125.100.79,"-7.6586164, 110.6751372","8MRG+G58 Kuncen, Ceper, Klaten Regency, Central Java, Indonesia, 57465"
+202,01668709,SITI JURIAH,Chrome 102.0.5005.125,Android,114.79.4.250,UNKNOWN,
+203,01686183,NUR AFRIDA SAMAD,Dalvik/2.1.0 (Linux; U; Android 14; SM-A155F Build/UP1A.231005.007),Android,"202,125,100,100","0.6307251, 128.4312661","JCJJ+8FQ Gotowasi, Maba Selatan, East Halmahera Regency, North Maluku, Indonesia,"
+204,01694700,YUSUF ZAIDI,Chrome 143.0.0.0,Android,116.254.97.223,UNKNOWN,
+205,01706217,DAYAT,Chrome 143.0.0.0,Android,202.125.100.79,,
+206,01718022,RAIQATUL MARDHIYAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+207,01729940,AHMADIONO,Chrome 143.0.0.0,Android,202.65.238.247,,
+208,01735480,SEGER PRAMONO SIGIT,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+209,01735500,RISVHAN HARYR HASANI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+210,01740114,ASIH FATIMAH,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+211,01750702,HASTI PRIMADILLA KRISMANINGRUM,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+212,01764087,HARIR HASANI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+213,01765168,TENI MARYAM NURBAYANTI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+214,01765876,ENDRICK MEINISTOVER,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+215,01797441,AHMAD SYUKRON,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+216,01799539,ADI MULIADI,Dalvik/2.1.0 (Linux; U; Android 13; SM-A245F Build/TP1A.220624.014),Android,114.79.0.16,"-6.1151088, 106.8878781","Jl. Kebon Bawang XI No.31A Kebon Bawang, Kecamatan Tanjung Priok, Jakarta Utara, Daerah Khusus Ibukota Jakarta, Indonesia, 14320"
+217,01822177,SYLVIANTI D.K.,Dalvik/2.1.0 (Linux; U; Android 14; SM-A525F Build/UP1A.231005.007),Android,114.79.5.36,"-6.3976936, 106.7815786","JQ2J+WHG Rangkapan Jaya Baru, Pancoran Mas, Depok City, West Java, Indonesia, 16434"
+218,01839735,RESTU HAYATY,Chrome 114.0.0.0,Android,114.79.0.16,"-6.1939958, 106.8899493","Arion Mall Lantai Basement, Jl. Pemuda Kav. 3-4, RT.2/RW.7, Rawamangun, Kec. Pulo Gadung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13220, Indonesia"
+219,01846429,MAZIYAH,Chrome 143.0.0.0,Android,202.65.238.122,"-3.257056, 105.3132291","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+220,01850039,SRI SWANTI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+221,01851137,SUHERI,Chrome 143.0.0.0,Android,116.254.97.223,UNKNOWN,
+222,01853304,RISMIYATI,Dalvik/2.1.0 (Linux; U; Android 10; SM-M205G Build/QP1A.190711.020),Android,114.79.4.250,"-3.359903, 104.6262958","Jl.pahlawan abusama no 001 ds 2 desa Tanjung Atap Barat, Kecamatan Tanjung Batu, Kabupaten Ogan Ilir, Sumatera Selatan, Indonesia, 30664"
+223,01857131,WIDYA ARLINA,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+224,01859692,ZAKIYAH ANAWATI,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+225,01863869,"DARNO UMASANGAJI,ST",Chrome 143.0.0.0,Android,116.254.97.223,UNKNOWN,
+226,01865246,FATNIWATI,Chrome 135.0.0.0,Windows 10,"103,228,242,222",,
+227,01874996,NURHASIAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+228,01878813,SRI HARTATI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+229,01884399,MASITA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+230,01886071,AMINAH,Chrome 143.0.0.0,Android,116.254.97.223,,
+231,01893515,BC HNI CIBINONG,Chrome 141.0.0.0,Android,114.79.5.36,"-6.558562, 106.8311111","CRRJ+HC6, Pasirlaya, Sukaraja, Bogor Regency, West Java 16710, Indonesia"
+232,01897036,NANAH NURJANAH,Chrome 53.0.2785.134,Android,114.79.0.16,,
+233,01898367,MUHAMMAD GHOZY ALKHARIRI,Chrome 143.0.0.0,Android,202.65.238.247,,
+234,01900699,MARDIANA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+235,01917099,BAYU TRI IRAWAN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+236,01917127,ARI WAHYUDI,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+237,01934757,HALIMATUL FUAD,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+238,01953797,NUNUNG SUHERLAN,Chrome 137.0.0.0,Android,116.254.97.223,"-7.3594756, 107.0306577","J2RJ+79F, Jl. Sindanghayu, Sukasirna, Kec. Leles, Kabupaten Cianjur, Jawa Barat 43273, Indonesia"
+239,01966971,SETIYO NUR NGAINI,Chrome 134.0.0.0,Android,114.79.4.250,"-7.7245564, 109.8560732","7VG4+69M, Adinegara, Butuh, Kec. Butuh, Kabupaten Purworejo, Jawa Tengah 54264, Indonesia"
+240,01970820,HARI ISMAYANTI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+241,01971117,NURHASANAH,Chrome 143.0.0.0,Android,202.65.239.9,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+242,01976242,SOFIANI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+243,01977215,SULYATI,Dalvik/2.1.0 (Linux; U; Android 13; 21061119AG Build/TP1A.220624.014),Android,114.79.5.36,"-6.1665386, 106.543253","RGMV+C5X Sukamantri, Pasar Kemis, Tangerang Regency, Banten, Indonesia, 15560"
+244,01977300,HIDAYATUL AINI,Dalvik/2.1.0 (Linux; U; Android 11; SM-A022F Build/RP1A.200720.012),Android,202.125.100.79,"-8.22543, 116.3252604","Q8FG+Q4J Mumbul Sari, Kecamatan Bayan, Kabupaten Lombok Utara, Nusa Tenggara Barat, Indonesia, 83353"
+245,01978050,WAHYUNI ARIF,Chrome 143.0.0.0,Android,202.65.239.9,,
+246,01979461,A BASO MUSTOPO,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132357","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+247,01985768,OKI SATRIA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+248,02001539,LILIK WAHYUNI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+249,02013857,KHOIRUN NASIHIN,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+250,02025424,HILWAN BATHRUS,Chrome 142.0.0.0,Android,202.65.225.8,,
+251,02025969,"SUDARMAJI, S.PD",Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+252,02043747,DIAN KARDIANSAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+253,02049225,SITI KHATIJAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+254,02057069,YUSNIDAR,Dalvik/2.1.0 (Linux; U; Android 10; vivo 2019 Build/QP1A.190711.020),Android,202.65.239.9,"5.1911533, 97.3622643","Matang putong Lhok Puuk, Kecamatan Seunuddon, Kabupaten Aceh Utara, Aceh, Indonesia,"
+255,02063242,LAILA YAYU UTARI,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+256,02071961,JERY FIKA RAHMAWATI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570581, 105.3132356","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+257,02074736,RASINA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132343","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+258,02081690,"MUFIDA, SE",Dalvik/2.1.0 (Linux; U; Android 12; RMX3516 Build/SP1A.210812.016),Android,114.79.0.16,"-6.3426763, 106.5642567","Jl. Mohamad Toha No.10 Cibunar, Kecamatan Parung Panjang, Kabupaten Bogor, Jawa Barat, Indonesia, 16360"
+259,02086698,MARDA JUWITA JAYU,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+260,02089991,RAMYA SAUSAN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+261,02090749,MIRA AGUSTINA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+262,02116676,CANDRA YURISMAN,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+263,02117458,RONDY NAJIB,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+264,02119673,SIGIET KHALINDO,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132335","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+265,02124368,RIKI HAMDANI,Dalvik/2.1.0 (Linux; U; Android 12; vivo 1907 Build/SP1A.210812.003),Android,114.79.0.16,"0.4972583, 101.4967118","FFXW+2PQ Tengkerang Timur, Tenayan Raya, Pekanbaru City, Riau, Indonesia, 28131"
+266,02124916,DIAN NOVITA,Dalvik/2.1.0 (Linux; U; Android 12; 22120RN86G Build/SP1A.210812.016),Android,202.65.239.9,"1.5514416, 101.8862036","HV2P+C8P Sepahat, Kecamatan Bukit Batu, Kabupaten Bengkalis, Riau, Indonesia, 28825"
+267,02141804,EVI FITRIANI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+268,02142622,DARITASMI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132356","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+269,02156237,SITI ROHIMAH,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+270,02168508,WIDDY FERDIANSYAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+271,02168773,LAILATUM MUTHOHAROH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+272,02185897,AHMADI MANISTOPA,Chrome 102.0.5005.125,Android,114.79.4.250,UNKNOWN,
+273,02197800,SITI KHUMAYAH,Chrome 143.0.0.0,Android,114.79.5.36,,
+274,02198152,"SUPARYANTO, SP",Chrome 143.0.0.0,Android,202.65.239.9,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+275,02207238,"HERY HERMAWAN, S.PD",Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132354","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+276,02211758,AYDIEN KHALISH AL AYYUBI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+277,02212945,NURWAHYUNI SANGGA,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+278,02213457,DEWI ANDAYANI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+279,02221159,RASUL RIZUAN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+280,02239562,TOMY PEGGI,Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6833B Build/TP1A.220624.014),Android,202.65.238.247,"-3.2570579, 105.3132353","Nomor 25 rt01 Tulung Selapan Ilir, Kecamatan Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan, Indonesia, 30655"
+281,02246969,ROKI HARDIANTO,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+282,02254858,MEGAWATI NASEVA,Chrome 134.0.0.0,Android,114.79.0.16,"-6.3329049, 106.943734","Pondok Indah Blk. K No.6, RT.009/RW.005, Jatisari, Kec. Jatiasih, Kota Bks, Jawa Barat 17426, Indonesia"
+283,02255932,"SUMIATI, DRA",Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6833B Build/TP1A.220624.014),Android,202.65.238.247,"-3.2570579, 105.3132353","Nomor 25 rt01 Tulung Selapan Ilir, Kecamatan Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan, Indonesia, 30655"
+284,02255956,ENENG RAHMAYANTI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.313234","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+285,02264031,HERI DWI KARTIKA PUTRA,Chrome 143.0.0.0,Android,116.254.97.223,,
+286,02265279,SULEMAN ADJILAHU SE.,Dalvik/2.1.0 (Linux; U; Android 11; SM-A022F Build/RP1A.200720.012),Android,202.65.225.242,"0.647664, 122.8645838","JVX7+4R3 Isimu Raya, Kecamatan Tibawa, Kabupaten Gorontalo, Gorontalo, Indonesia, 96216"
+287,02283406,VRANSISKHA SOVIANINGRUM,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+288,02290030,SUBEHI FAHRUDIN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+289,02293098,"AYIP ZAENAL ARIPIN, M.PD",Chrome 143.0.0.0,Android,116.254.97.223,,
+290,02304301,ROHMAT,Chrome 143.0.0.0,Android,116.254.97.223,,
+291,02308385,MOH IZZUDDIN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+292,02328949,SUNIRCO,Chrome 140.0.0.0,Android,116.254.97.223,"-1.553381, 123.2405602","C6WR+J6 Saleati, Banggai Islands Regency, Central Sulawesi, Indonesia"
+293,02330907,AC HNI SURABAYA 3,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+294,02333329,DERI WALUYO,Chrome 124.0.0.0,Android,114.79.5.36,"-6.1292817, 106.8471933","Jl. Pesanggrahan 1 No.16, RW.10, Pademangan Tim., Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14410, Indonesia"
+295,02337050,RAHMAN HAKIM,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+296,02342194,NURSAADAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570586, 105.3132358","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+297,02342617,MUSLENA LAYLA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+298,02360997,KATRI RUHANIYAH,Chrome 142.0.0.0,Android,116.254.97.121,,
+299,02362149,ARIVUDDIN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+300,02364553,TOTOK INDARTO,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+301,02377616,"MUHAMAD SALEH,S.PD",Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+302,02382992,BONY GARTIN,Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+303,02395560,WARDIYAH,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570582, 105.3132332","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+304,02399549,NARSEM,Chrome 119.0.0.0,Android,114.79.5.36,"-6.1323809, 106.8405983","Jl. Budi Mulia No.17, RT.9/RW.10, Pademangan Bar., Kec. Pademangan, Jkt Utara, Daerah Khusus Ibukota Jakarta 14420, Indonesia"
+305,02400341,RENI ELFIA,Dalvik/2.1.0 (Linux; U; Android 10; RMX1911 Build/QKQ1.200209.002),Android,114.79.0.16,"-0.3139326, 100.4250789","MCPG+8MJ Balai Gurah, Ampek Angkek, Agam Regency, West Sumatra, Indonesia,"
+306,02429329,RAUDA TUL JANNAH,Dalvik/2.1.0 (Linux; U; Android 13; SM-A035F Build/TP1A.220624.014),Android,202.65.238.122,"-0.1181462, 119.8292621","VRJH+WGG Lombonga, Kecamatan Balaesang, Kabupaten Donggala, Sulawesi Tengah, Indonesia, 94355"
+307,02442619,ERNITA,Dalvik/2.1.0 (Linux; U; Android 12; CPH2387 Build/SP1A.210812.016),Android,114.79.4.250,"0.4921044, 101.3660727","F9R8+RCF Simpang Baru, Kecamatan Tampan, Kota Pekanbaru, Riau, Indonesia, 28291"
+308,02443680,YUMEI ERAWATI,Dalvik/2.1.0 (Linux; U; Android 9; vivo 1727 Build/PKQ1.190118.001),Android,202.65.225.8,"0.3486044, 101.9731691","8XXF+H99 Telayap, Pelalawan, Pelalawan Regency, Riau, Indonesia, 28383"
+309,02450567,"HELEN WIDAYA, S.FARM.APT",Dalvik/2.1.0 (Linux; U; Android 10; M2003J15SC MIUI/V12.0.6.0.QJOIDXM),Android,114.79.4.250,"-0.508967, 100.3376853","Jl. Raya Padang - Bukittinggi No.99 Guguak, Kecamatan 2 X 11 Kayu Tanam, Kabupaten Padang Pariaman, Sumatera Barat, Indonesia, 25584"
+310,02457349,DETI LESTARI,Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1909 Build/O11019),Android,114.79.0.16,,
+311,02458808,MERRYZA ANGGRAINI,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570582, 105.3132335","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+312,02460489,FINA SARITA LUBIS,Chrome 143.0.0.0,Android,202.65.238.247,,
+313,02476000,CHINTYA MARTINUS,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.313234","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+314,02483255,SITI FATIHAH,Chrome 118.0.0.0,Android,114.79.0.16,"-5.7274741, 105.5954423","JL. Raya Kedaton, Kedaton, Lampung Selatan, 7HCW+X5W, Buah Berak, Kec. Kalianda, Kabupaten Lampung Selatan, Lampung 35551, Indonesia"
+315,02486762,MUHAMMAD ASHAR,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+316,02489762,"PISMIA SYLVI,S.SI.,MSI",Chrome 143.0.0.0,Android,202.65.239.9,,
+317,02492252,MUH. ICHLASUL AMAL HISBULLAH,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+318,02503016,FERRY HARYANTO,Dalvik/2.1.0 (Linux; U; Android 14; V2207 Build/UP1A.231005.007),Android,"103,228,242,222","-2.7869634, 100.2078345","Jalan Tanpa Nama Sikakap, Kecamatan Sikakap, Kabupaten Kepulauan Mentawai, Sumatera Barat, Indonesia, 25391"
+319,02517162,RAJALI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+320,02518160,IIM SITI ROHIMAH,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+321,02519513,ASIH KURNIASIH,Dalvik/2.1.0 (Linux; U; Android 9; Redmi 8 MIUI/V11.0.5.0.PCNIDXM),Android,114.79.5.36,"-6.9068211, 108.4853331","3FVP+52P Maniskidul, Kecamatan Jalaksana, Kabupaten Kuningan, Jawa Barat, Indonesia, 45554"
+322,02523776,SUNARTI,Chrome 143.0.0.0,Android,116.254.97.223,,
+323,02527197,ELFI EFENDI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+324,02527631,ABDUL ROJAK,Chrome 137.0.0.0,Android,114.79.0.16,"-6.2028582, 106.7709378","Jl. Anggrek No.72, RT.8/RW.2, Kb. Jeruk, Kec. Kb. Jeruk, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11530, Indonesia"
+325,02532674,LINA,Chrome 141.0.0.0,Windows 10,202.65.238.247,"-1.157495, 116.9734685","Perum mutiara asri Blok c3 Lamaru, Teritip, Kec. Balikpapan Tim., Kota Balikpapan, Kalimantan Timur 76118, Indonesia"
+326,02543366,M KODIR,Chrome 109.0.0.0,Android,114.79.5.36,"-6.6765172, 106.8611865","Jl. Veteran III No.21A, Banjar Waru, Kec. Ciawi, Kabupaten Bogor, Jawa Barat 16720, Indonesia"
+327,02546986,PUTRI MAYA SARAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+328,02559330,BUDI PURYANTO,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+329,02566312,KHUSNUNNIA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+330,02576757,MIS APRIADI,Chrome 143.0.0.0,Android,116.254.97.223,,
+331,02579992,YENI GUSCANDRA,Chrome 136.0.0.0,Android,202.125.100.79,,
+332,02581705,YAYUK MARTININGSIH,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+333,02581949,IRSYADATUN NI'MAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+334,02584379,AAH SUTIAH,Chrome 94.0.4606.85,Android,114.79.4.250,UNKNOWN,
+335,02591387,PD IKADI SUBANG,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+336,02601043,BUDI SETIA DARMA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+337,02601687,KARMIATI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+338,02608864,SUJANA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570526, 105.3132285","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+339,02615789,YELIZA MAYA,Chrome 143.0.0.0,Android,114.79.5.36,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+340,02616390,SUPIATUN,Chrome 143.0.0.0,Android,202.65.238.247,,
+341,02626622,LAELA SARI,Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.14.0.QCRIDXM),Android,114.79.0.16,"-6.2248659, 106.954965","QXG4+423 Bintara, Kecamatan Bekasi Barat, Kota Bekasi, Jawa Barat, Indonesia, 17134"
+342,02638109,SUMI,Dalvik/2.1.0 (Linux; U; Android 11; SM-A037F Build/RP1A.200720.012),Android,114.79.0.16,"-6.360815, 106.636665","Jl. Raya Cisauk - Legok No.13 Suradita, Kecamatan Cisauk, Kabupaten Tangerang, Banten, Indonesia, 15343"
+343,02641296,SHAFWAN AL KHAWARIZMI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+344,02647284,RENGGA PRIYANTO,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570582, 105.313234","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+345,02657340,VENEZ WELLA,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+346,02667516,JAYADI PURNOMO,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+347,02668933,RYFAN FEBRIANTO,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+348,02674024,MUSLIM AR,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+349,02689588,LISMAWATI,Chrome 126.0.0.0,Android,114.79.4.250,"-6.2368413, 106.9554896","Jl. Bintara IX Jl. Al-Wathoniyah No.85, RT.002/RW.001, Bintara Jaya, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17136, Indonesia"
+350,02693128,MARDUWATI,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+351,02693652,"RENNY SURYANINGSIH,SH",Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+352,02715605,ARI ROZALDI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+353,02722526,"SITI MUSLIMAH, S.AG",Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570582, 105.313234","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+354,02723511,DORI AHDORI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+355,02738003,ANDI TRISNAINI RIZAL,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+356,02745845,ELIS SUMARNI,Dalvik/2.1.0 (Linux; U; Android 13; V2310 Build/TP1A.220624.014),Android,114.79.4.250,"-6.6420283, 106.8722184","9V5C+5RF Gadog, Kecamatan Megamendung, Kabupaten Bogor, Jawa Barat, Indonesia, 16770"
+357,02746772,NURHADI IRWAN A.N,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.30567678066087","P8Q4+F7 Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+358,02748856,H. KHOIRUL HUDA,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+359,02751271,"FAJAR FAUZI FAZRURROHMAN, S.PD.I",Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+360,02753417,LILIS SURYANI,Chrome 143.0.0.0,Android,202.65.239.9,,
+361,02757134,ZIDAN ELFALAQI AHNAF,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+362,02757849,HERMAN HIDAYAT,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+363,02775687,N SA'DIYAH,Chrome 143.0.0.0,Android,116.254.97.223,,
+364,02777170,ETI KOMARIA,Chrome 143.0.0.0,Android,202.65.238.247,,
+365,02780781,NOKNING PRAMUKENTI,Chrome 143.0.0.0,Android,"103,228,242,222","-3.2570632, 105.3132274","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+366,02781656,ERNA,Chrome 143.0.0.0,Android,202.125.100.79,,
+367,02795038,ZAKIYATUR RAHMI,Chrome 113.0.0.0,Android,114.79.4.250,"-0.6254288, 100.1498436","94FX+RXR, Jl. Imam Bonjol, Cimparuh, Kec. Pariaman Tengah, Kota Pariaman, Sumatera Barat 25511, Indonesia"
+368,02808353,MISROH,Dalvik/2.1.0 (Linux; U; Android 11; CPH2209 Build/RP1A.200720.011),Android,114.79.4.250,"-6.1763047, 106.9355358","Jl. Tipar Cakung Blok Amit No.8 Cakung Barat, Kecamatan Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia, 13910"
+369,02808419,TITIN BT SAINAN,Dalvik/2.1.0 (Linux; U; Android 11; CPH2209 Build/RP1A.200720.011),Android,114.79.4.250,"-6.1763108, 106.9355362","Jl. Tipar Cakung Blok Amit No.8 Cakung Barat, Kecamatan Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia, 13910"
+370,02808472,RINA RASWATI,Dalvik/2.1.0 (Linux; U; Android 11; SM-A105G Build/RP1A.200720.012),Android,114.79.5.36,"-6.4090939, 106.8025361","Jl. Murni Blok TK No.3 Pancoran Mas, Kecamatan Pancoran Mas, Kota Depok, Jawa Barat, Indonesia, 16436"
+371,02808473,RIZKI EMILIA,Dalvik/2.1.0 (Linux; U; Android 11; CPH2209 Build/RP1A.200720.011),Android,114.79.4.250,"-6.1764085, 106.9353203","Jl. Tipar Cakung Blok Amit No.15 Cakung Barat, Kecamatan Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia, 13910"
+372,02823808,FITRIANDI DUDI APRILLIANTO,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+373,02832522,ERNAWATI,Dalvik/2.1.0 (Linux; U; Android 15; V2310 Build/AP3A.240905.015.A2),Android,202.65.225.242,"0.5125194, 101.348932","Jl. Beringin No.D17 Karya Indah, Kecamatan Tapung, Kabupaten Kampar, Riau, Indonesia, 28291"
+374,02833519,NADIA FEBRIANI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+375,02835925,ISTIANA NURIA,Dalvik/2.1.0 (Linux; U; Android 10; Infinix X657B Build/QP1A.190711.020),Android,114.79.5.36,"-0.23957, 102.1094167","Q466+R3R Silikuan Hulu, Ukui, Pelalawan Regency, Riau, Indonesia, 28382"
+376,02852028,ANNISA YUNISTI RAHMI,Dalvik/2.1.0 (Linux; U; Android 11; RMX2001 Build/RP1A.200720.011),Android,114.79.5.36,"-0.3927867, 100.39574","Koto Baru Koto Baru, Kecamatan Sepuluh Koto, Kabupaten Tanah Datar, Sumatera Barat, Indonesia,"
+377,02857149,LAILA KALIMATUL MUKARROMAH,Chrome 143.0.0.0,Android,"202,125,100,100","-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+378,02860397,SRI MURYATI,Chrome 143.0.0.0,Android,202.125.100.79,,
+379,02873855,DIAN ANGGRAENI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+380,02874785,SRI RAHAYU,Dalvik/2.1.0 (Linux; U; Android 6.0; vivo 1601 Build/MRA58K),Android,"202,125,100,100","-1.1214476, 101.8732526","VVHC+9WP Simalidu, Kecamatan Koto Salak, Kabupaten Dharmasraya, Sumatera Barat, Indonesia, 27681"
+381,02876048,MULYADI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+382,02876140,AGUNG TRI MULYADI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+383,02877290,RIFKY MAHFUDI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+384,02881097,SALMAWATI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+385,02887159,NURHABIBAH GURNING,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+386,02896358,ABDUL HALIM,Dalvik/2.1.0 (Linux; U; Android 11; Infinix X693 Build/RP1A.200720.011),Android,114.79.4.250,"0.5649274, 101.4578411","Jl. Limbungan Gg. Luhur Perumahan Permata Limbungan No.22 Limbungan, Kecamatan Rumbai Pesisir, Kota Pekanbaru, Riau, Indonesia, 28266"
+387,02899035,Q HASNA AFIFAH,Chrome 143.0.0.0,Android,114.79.4.250,"-3.256314, 105.3125696","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+388,02901636,MIA AMELIANI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+389,02907616,SUPRIYADI,Chrome 143.0.0.0,Android,116.254.97.223,,
+390,02907706,LENI BUDIARTI,Dalvik/2.1.0 (Linux; U; Android 12; V2236 Build/SP1A.210812.003),Android,202.65.225.242,"1.6303803, 100.5143828","JGH7+RG Pasir Putih, Bagan Sinembah, Rokan Hilir Regency, Riau, Indonesia,"
+391,02909728,ISTIQOMAH,Dalvik/2.1.0 (Linux; U; Android 11; RMX2103 Build/RKQ1.201217.002),Android,114.79.4.250,"-3.0499236, 104.8288324","XR2H+3G5 Pangkalan Gelebak, Rambutan, Banyuasin Regency, South Sumatra, Indonesia, 30967"
+392,02914927,NORFRYANSYAH DWIPA ACHMAD,Dalvik/2.1.0 (Linux; U; Android 14; Pixel 5 Build/UP1A.231105.001.B2),Android,202.65.239.9,"-2.1834679, 112.8215507","RR8C+G6H Patai, Cempaga, East Kotawaringin Regency, Central Kalimantan, Indonesia, 74354"
+393,02918999,SITI NURHAYANI,Chrome 141.0.0.0,Android,116.254.97.121,UNKNOWN,
+394,02946172,SILFIA FEBRI,Chrome 143.0.0.0,Android,202.65.238.247,,
+395,02946574,ROHANA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+396,02970865,ZOLFAH,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2559987, 105.3133014","P8V7+JH8, Tulung Selapan Ilir, Tulung Selapan, Ogan Komering Ilir Regency, South Sumatra 30655, Indonesia"
+397,02986216,HELVIANI RAHMAWATI,Chrome 106.0.0.0,Android,114.79.4.250,"-6.69882, 106.9708783","8X2C+F66, Kp. Pensiunan, RT.3/RW.1, Tugu Sel., Kec. Cisarua, Kabupaten Bogor, Jawa Barat 16750, Indonesia"
+398,02987440,DADANG SAEPULLOH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+399,02992742,ADI CAHYONO,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+400,03007762,FITRIA PRANESTI,Dalvik/2.1.0 (Linux; U; Android 14; SM-A146P Build/UP1A.231005.007),Android,114.79.5.36,"-2.9371609, 104.8974758","3V6W+XWX Duren Ijo, Banyuasin I, Banyuasin Regency, South Sumatra, Indonesia, 30962"
+401,03016384,ENEN SUKAENAH,Chrome 123.0.6312.118,Android,114.79.0.16,"-6.4904633, 107.6785666","GM5H+W82, dusun kaliang bawang, RT.16/RW.08, Wanakerta, Kec. Purwadadi, Kabupaten Subang, Jawa Barat 41261, Indonesia"
+402,03020393,MISDI,Dalvik/2.1.0 (Linux; U; Android 14; V2310 Build/UP1A.231005.007),Android,"103,228,242,222","2.9697437, 99.7130262","XPC7+HXP Sungai Lama, Simpang Empat, Asahan Regency, North Sumatra, Indonesia, 21263"
+403,03023198,LELI NURVIDIAWATI,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+404,03025838,QURRATUL AINI BENTI NASAIY,Chrome 142.0.0.0,Android,116.254.97.121,,
+405,03028620,IDA NURUL HARIYANTI,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+406,03028945,MUHAMAD MUSTA'IN,Chrome 143.0.0.0,Android,202.65.238.247,,
+407,03048508,NOVIA MUSMINDASARI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+408,03058704,SUHARDI,Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1909 Build/O11019),Android,202.65.239.126,"0.7511091, 104.3485525","Q82W+8X4 Karas, Galang, Batam City, Riau Islands, Indonesia,"
+409,03061757,A MUNDZIR,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570526, 105.3132285","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+410,03065765,SYAFAROTUL MAHROSAH,Chrome 143.0.0.0,Android,202.65.239.9,,
+411,03088858,"WIDYA LAILANY, ST, MT",Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+412,03089772,SITI HAMIDAH,Chrome 143.0.0.0,Android,202.125.100.79,,
+413,03111525,MELIA ANASRIL,Dalvik/2.1.0 (Linux; U; Android 11; SM-A207F Build/RP1A.200720.012),Android,114.79.4.250,"-1.6328668, 103.6097317","Jl. H. Agus Salim No.19 Paal Lima, Kecamatan Kota Baru, Kota Jambi, Jambi, Indonesia, 36129"
+414,03117722,ADIPIO DARMADI,Chrome 137.0.0.0,Android,"103,228,242,222","-2.7823891, 103.5972479","6H9W+2V Muara Punjung, Musi Banyuasin Regency, South Sumatra, Indonesia"
+415,03122205,SABARUDDIN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+416,03122578,MISROL AYANI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+417,03124668,CORY KARTIKA BAKTI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570586, 105.3132358","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+418,03139408,AHMAD USTUHRI,Chrome 119.0.0.0,Android,114.79.4.250,UNKNOWN,
+419,03154260,DENNY BOY,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+420,03164143,ASROFI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+421,03167942,DIAN HADIANSYAH,Chrome 143.0.0.0,Android,116.254.97.223,,
+422,03169944,ARDILLAH SARI,Chrome 143.0.0.0,Android,116.254.97.223,,
+423,03179224,JUWITA,Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1909 Build/O11019),Android,202.65.239.126,"0.7510389, 104.3486514","Q82W+8X4 Karas, Galang, Batam City, Riau Islands, Indonesia,"
+424,03180245,IDA PARIDA,Dalvik/2.1.0 (Linux; U; Android 8.1.0; vivo 1820 Build/O11019),Android,114.79.0.16,"-6.3893555, 107.1092954","J465+4VX Sukaragam, Serang Baru, Bekasi Regency, West Java, Indonesia, 17330"
+425,03182005,MUHAMMAD BAGUS RAMADHAN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+426,03183219,NENG USTURIYAH,Dalvik/2.1.0 (Linux; U; Android 10; Infinix X657C Build/QP1A.190711.020),Android,116.254.97.121,"-6.2969215, 106.6606666",-
+427,03189138,DINN RAHARJA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+428,03190541,NETTI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+429,03198221,SULASTRI,Chrome 142.0.0.0,Android,202.65.225.8,,
+430,03200498,EZI,Chrome 136.0.0.0,Android,202.125.100.79,"0.0254925, 100.5023422","2GG2+5WP, Maek, Bukik Barisan, Lima Puluh Kota Regency, West Sumatra 26255, Indonesia"
+431,03201412,WAHYU EKA PUTRA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132354","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+432,03201536,"MASHABI RUHING HASAN, SE",Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+433,03215516,KUSPITA ASIH,Chrome 143.0.0.0,Android,116.254.97.223,,
+434,03216465,WAHYU INDAH RAHAYU,Chrome 138.0.0.0,Android,114.79.5.36,"-2.8901769, 104.6702608","4M6C+69P, Jl. Ps., Talang Betutu, Kec. Sukarami, Kab. Banyuasin, Sumatera Selatan 30961, Indonesia"
+435,03221416,ANDY MARDI HIDAYAT,Chrome 143.0.0.0,Android,116.254.97.223,,
+436,03224835,NURFADHILAH SIMAMORA,Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+437,03237761,DEDE SAEPUL ANWAR,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+438,03237961,BIMANTORO WINARDI PUTRA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+439,03244272,UDIN,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+440,03248769,MUSLIMAINI,Dalvik/2.1.0 (Linux; U; Android 9; vivo 2007 Build/PKQ1.190616.001),Android,114.79.5.36,"-6.2230137, 106.4242538","Jl. Raya Serang No.Km 29 Gembong, Kecamatan Balaraja, Kabupaten Tangerang, Banten, Indonesia, 15610"
+441,03263777,DWI HARTANI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+442,03265532,FERY SANURDIN,Chrome 143.0.0.0,Android,116.254.97.223,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+443,03283877,ANGGIT SOLIHAH,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+444,03287263,ABI ALFATH ISTIQODSAH,Chrome 143.0.0.0,Android,202.65.238.247,,
+445,03300558,JAMALUDIN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+446,03304670,AJAT,Chrome 143.0.0.0,Android,202.65.238.247,,
+447,03309063,AGUS SUTRISNO,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+448,03330999,SAMSIYATIN,Chrome 143.0.0.0,Android,202.125.100.79,,
+449,03333484,RAJJIF AHMAD FHADRIL,Chrome 143.0.0.0,Android,202.65.238.247,,
+450,03349020,CHAIRUL FITRI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570586, 105.3132358","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+451,03351721,SOPIAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+452,03353884,ANNISA AMEILIA,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+453,03354028,LELEN SARTIKA WOYLA,Chrome 142.0.0.0,Android,114.79.0.16,"-0.4644681, 100.3875155","Jl. Sutan Syahrir No.84, Silaing Bawah, Kec. Padang Panjang Bar., Kota Padang Panjang, Sumatera Barat 27118, Indonesia"
+454,03363650,YOHAN APRIANDI,Chrome 143.0.0.0,Android,116.254.97.223,,
+455,03369611,WAWAN RIDHUWANTO,Chrome 143.0.0.0,Android,202.65.225.242,,
+456,03378161,MANAWIYAH,Dalvik/2.1.0 (Linux; U; Android 8.1.0; vivo 1820 Build/O11019),Android,114.79.5.36,,
+457,03378235,LALU ABD. RAHMAN HAKIM,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+458,03387825,ANIS MAWATI,Dalvik/2.1.0 (Linux; U; Android 12; V2111 Build/SP1A.210812.003),Android,114.79.5.36,"-0.4668781, 100.4075182","GCM4+5P7 Guguk Malintang, Padang Panjang Timur, Padang Panjang City, West Sumatra, Indonesia, 27111"
+459,03399042,HERA PUSPARLIYAH,Dalvik/2.1.0 (Linux; U; Android 8.1.0; vivo 1820 Build/O11019),Android,114.79.0.16,"-6.4216226, 106.806965","HRH4+7QM Ratu Jaya, Cipayung, Depok City, West Java, Indonesia, 16439"
+460,03415920,SUWAR,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132332","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+461,03421500,ANDIK ALI MUSTHOFA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+462,03467124,ARIFAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+463,03482646,ANI HERYANI,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+464,03487004,RIAN MUNAWAR,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132356","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+465,03499253,USNAINI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570317, 105.3132266","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+466,03500305,SYARIFAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+467,03500397,MOHAMAD HARDIMAN,Chrome 143.0.0.0,Android,202.65.239.9,,
+468,03502954,HARSONO,Dalvik/2.1.0 (Linux; U; Android 13; 2310FPCA4G Build/TP1A.220624.014),Android,114.79.4.250,"-6.2048316, 106.8701303","Jl. Puspa III No.45 Utan Kayu Selatan, Kecamatan Matraman, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia, 13120"
+469,03510543,SITI ZULAIKHA,Dalvik/2.1.0 (Linux; U; Android 12; 22120RN86G Build/SP1A.210812.016),Android,114.79.5.36,"-0.4668936, 100.4075259","GCM4+5P7 Guguk Malintang, Kecamatan Padang Panjang Timur, Kota Padang Panjang, Sumatera Barat, Indonesia, 27111"
+470,03515852,EKO SETIJONO,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2559987, 105.3133014","P8V7+JH8, Tulung Selapan Ilir, Tulung Selapan, Ogan Komering Ilir Regency, South Sumatra 30655, Indonesia"
+471,03531490,DIAN MERI AFRINA,Chrome 143.0.0.0,Android,116.254.97.223,,
+472,03534770,YUNI IRMAWATI,Dalvik/2.1.0 (Linux; U; Android 13; SM-A225F Build/TP1A.220624.014),Android,114.79.4.250,"-6.4551539, 106.7392541","Jl. Raya Kalisuren No.17 Kalisuren, Kecamatan Tajur Halang, Kabupaten Bogor, Jawa Barat, Indonesia, 16320"
+473,03535827,WAWAT GANDARI,Dalvik/2.1.0 (Linux; U; Android 12; V2111 Build/SP1A.210812.003),Android,114.79.5.36,"-6.5475493, 107.7537679","FQ23+WFX Dangdeur, Subang, Subang Regency, West Java, Indonesia,"
+474,03537029,ASLIANA,Chrome 142.0.0.0,Android,202.65.238.247,UNKNOWN,
+475,03538181,ERWIN HIDAYAT,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+476,03539756,ARAS MUSTIKA,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.3132279","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+477,03543774,SIGIT PRIYONO,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+478,03561123,ASEP SOBUR,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+479,03561258,DADAN DARMAWAN,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+480,03562470,HARISAWATI SUKRIN,Dalvik/2.1.0 (Linux; U; Android 15; V2339 Build/AP3A.240905.015.A2),Android,202.125.100.79,"-0.3571042, 127.8458237","JRVW+59R Saketa, Gane Barat, South Halmahera Regency, North Maluku, Indonesia,"
+481,03564853,AMRIL AZIZ,Dalvik/2.1.0 (Linux; U; Android 10; RMX1911 Build/QKQ1.200209.002),Android,114.79.0.16,"-0.3139992, 100.4250984","MCPG+8MJ Balai Gurah, Ampek Angkek, Agam Regency, West Sumatra, Indonesia,"
+482,03572930,YANIH,Chrome 120.0.0.0,Android,114.79.4.250,"-6.6700887, 106.6610702","8MJ6+2JV, Gunung Sari, Pamijahan, Bogor Regency, West Java 16810, Indonesia"
+483,03575782,RUSMAWATI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+484,03582764,IIN INDAH SRI REJEKI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+485,03584537,NURHASNI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132356","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+486,03586549,AFIF TRIYANTO,Chrome 143.0.0.0,Android,114.79.4.250,"-3.256314, 105.3125696","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+487,03588488,LILIK SUMIATI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+488,03591126,MEGAWATI,Chrome 143.0.0.0,Android,114.79.5.36,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+489,03593073,IFATU ZUNINAH,Chrome 142.0.0.0,Android,202.65.225.8,,
+490,03593430,SITI ARFAH,Chrome 143.0.0.0,Android,202.65.238.247,,
+491,03597446,SRI IFA AGUSTINI,Chrome 143.0.0.0,Android,202.65.239.9,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+492,03597892,SAFINATUN NAFILAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+493,03605528,MULBOWO EDI,Chrome 87.0.4280.101,Android,114.79.4.250,"-6.2769375, 107.1871924","Rumah ibu ina, Jl. Cisanggiri III No.12, Jatireja, Kec. Cikarang Tim., Kabupaten Bekasi, Jawa Barat 17530, Indonesia"
+494,03624964,MOH. SALEH FAQIH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+495,03632985,R.A. HARTINI YULISTYAWATI,Chrome 143.0.0.0,Android,202.65.239.9,,
+496,03634215,FATMAWATI,Chrome 142.0.0.0,Android,202.65.225.8,,
+497,03635093,FANDHY PIRSA HARYR,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+498,03639946,JODI SAPUTRA,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+499,03646787,RIRIN ERNAWATI,Chrome 143.0.0.0,Android,202.65.225.242,,
+500,03650713,ARIS ARIYANTO,Chrome 109.0.0.0,Android,114.79.5.36,UNKNOWN,
+501,03652406,MOH. ZUHDI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+502,03656950,JUMMIYARTI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+503,03658257,AYYINATUS SHOFIYAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+504,03659629,NUR IMALAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+505,03659681,HERI WIYANTO,Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1909 Build/O11019),Android,114.79.5.36,"0.4451552, 101.445811","CCWW+38P Perhentian Marpoyan, Kecamatan Marpoyan Damai, Kota Pekanbaru, Riau, Indonesia, 28284"
+506,03660231,SUYYINAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+507,03665114,HUSNUL KHOTIMAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570494, 105.3132286","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+508,03666095,VIRA NALITA,Chrome 143.0.0.0,Android,202.65.238.247,,
+509,03666634,MOHAMAD HAFID,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+510,03673972,CHRISTINE DIANA SARI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+511,03675699,AIDAH,Chrome 143.0.0.0,Android,202.125.100.79,,
+512,03677362,DAHLIA,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570583, 105.3132343","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+513,03678206,EDDY JUNAEDY,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+514,03678512,"SUNARKO, S.PD",Chrome 142.0.0.0,Android,202.65.225.8,,
+515,03685294,NUR HASANAH,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+516,03688164,HERMAN SUSANTO,Firefox 115.0,Windows 7,116.254.97.121,"-0.8170111, 109.78018","5QMJ+537, Upt Sei Kerawang, Batu Ampar, Kubu Raya Regency, West Kalimantan 78385, Indonesia"
+517,03699936,DWI HARGONO,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+518,03701678,ETI SURYATI,Chrome 87.0.4280.141,Android,114.79.5.36,"-6.5571377, 106.7396402","Jl. Babakan Lb. No.71, RT.01/RW.05, Balungbangjaya, Kec. Bogor Bar., Kota Bogor, Jawa Barat 16116, Indonesia"
+519,03704367,TRIAJI BUDIANTO,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+520,03705284,MULYANA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+521,03712472,UMROTUL AROFAH,Chrome 143.0.0.0,Android,202.125.100.79,,
+522,03713871,SATIFAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570583, 105.3132329","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+523,03713900,HALIMATUS SA'DIYAH,Chrome 143.0.0.0,Android,202.65.225.242,,
+524,03713928,YENNI DWI PUSPITASARI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+525,03716599,KAMARIYAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+526,03723754,RINA YULIANI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+527,03737458,AFIDA WARDAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+528,03743455,RAHMAT FAUZI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+529,03756256,LATIF ARDIYANTO WIBOWO,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+530,03759359,MUSIDAHTUN,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+531,03769896,LINA RATNASARI,Dalvik/2.1.0 (Linux; U; Android 13; V2109 Build/TP1A.220624.014),Android,114.79.0.16,"-6.3390014, 106.5609805","MH66+98H Cibunar, Kecamatan Parung Panjang, Kabupaten Bogor, Jawa Barat, Indonesia, 16360"
+532,03778999,INDRIA MAYANG,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+533,03782864,KHORRY HANDAYANI,Chrome 143.0.0.0,Android,116.254.97.223,,
+534,03792676,SUNARTI,Chrome 125.0.0.0,Android,114.79.5.36,"-6.3573138, 107.1215242","Jl. H. Jamil No.58, Serang, Cikarang Sel., Kabupaten Bekasi, Jawa Barat 17530, Indonesia"
+535,03797664,MOHAMMAD RIF'AN FALAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+536,03811589,"MASRUHIN, S.KOM, M.PD.",Chrome 143.0.0.0,Android,202.65.238.247,,
+537,03824714,SOLIHUDIN,Chrome 138.0.0.0,Android,114.79.0.16,"-6.199713, 106.8084437","Jl. Administrasi II No.1, RT.9/RW.9, Petamburan, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10260, Indonesia"
+538,03834566,ARI NURROKHMAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+539,03850869,RANI,Dalvik/2.1.0 (Linux; U; Android 12; CPH2387 Build/SP1A.210812.016),Android,114.79.0.16,"-6.1521887, 106.1808372","rs.pemda blok a5/5 Banjarsari, Kecamatan Cipocok Jaya, Kota Serang, Banten, Indonesia, 42123"
+540,03897013,AC HNI BOJONEGORO 2,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+541,03911057,WAHYUNI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+542,03917206,UMRA,Dalvik/2.1.0 (Linux; U; Android 11; V2131 Build/RP1A.200720.012),Android,114.79.4.250,"-2.918847, 104.8144478","3RJ7+FR9 Sako, Kecamatan Sako, Kota Palembang, Sumatera Selatan, Indonesia, 30961"
+543,03934288,FAISAL HAQI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+544,03939695,ASRIANI,Chrome 143.0.0.0,Android,202.65.238.247,,
+545,03944925,"WISNU WICAKSONO,S.HUT",Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+546,03945360,CUCU SUMIATI,Dalvik/2.1.0 (Linux; U; Android 10; RMX1821 Build/QP1A.190711.020),Android,114.79.5.36,"-6.4250753, 106.8064245","Jl. Matoa III Rt.001/001 No.36 Ratu Jaya, Kecamatan Cipayung, Kota Depok, Jawa Barat, Indonesia,"
+547,03954977,FENI ANDARI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+548,03959823,WINARSIH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132343","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+549,03986221,ELFIN MAHENDRATAMA,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+550,04001519,ZONDRA SAPUTRA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+551,04009742,ICIH,Chrome 93.0.4577.62,Android,114.79.4.250,UNKNOWN,
+552,04022987,MANZILAH CHOERIYAH,Dalvik/2.1.0 (Linux; U; Android 8.1.0; vivo 1814 Build/O11019),Android,114.79.4.250,"-6.9088038, 106.8883067","3VRQ+H6Q Cisaat, Kecamatan Cisaat, Kabupaten Sukabumi, Jawa Barat, Indonesia, 43152"
+553,04023633,JAMAL MAULANA HUDIN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570494, 105.3132286","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+554,04024326,SELAMET HARIADI,Chrome 143.0.0.0,Android,202.65.239.126,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+555,04040637,YUSRAINI,Dalvik/2.1.0 (Linux; U; Android 14; V2322 Build/UP1A.231005.007),Android,"202,125,100,100","4.4127751, 98.1606004","C576+76C Bandar Khalifah, Bendahara, Aceh Tamiang Regency, Aceh, Indonesia, 24472"
+556,04048498,LIANA KRISDAYANTI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+557,04054730,ASMA KARIMA,Chrome 143.0.0.0,Android,202.65.239.9,,
+558,04054737,FATIMAH KARIMA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+559,04065281,IMELDA,Chrome 143.0.0.0,Android,202.65.238.247,,
+560,04073021,ELIA MULYANI,Chrome 127.0.0.0,Android,"202,125,100,100","-7.3594622, 107.030958","J2RJ+79F, Jl. Sindanghayu, Sukasirna, Kec. Leles, Kabupaten Cianjur, Jawa Barat 43273, Indonesia"
+561,04073040,NURUL ILMA AULIA,Chrome 141.0.0.0,Android,202.65.225.8,"-7.3594096, 107.0306015","J2RJ+79F, Jl. Sindanghayu, Sukasirna, Kec. Leles, Kabupaten Cianjur, Jawa Barat 43273, Indonesia"
+562,04075825,MARTINELI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132343","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+563,04076556,SYAMSIDAR,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+564,04083486,UKHTI RAHIMA,Chrome 143.0.0.0,Android,116.254.97.223,,
+565,04099817,TIBI SANTIBI,Dalvik/2.1.0 (Linux; U; Android 10; SM-M205G Build/QP1A.190711.020),Android,202.125.100.79,"-6.8642762, 108.5101479","Jalan Tanpa Nama Caracas, Kecamatan Cilimus, Kabupaten Kuningan, Jawa Barat, Indonesia,"
+566,04100652,FAJ RI RAMADAN,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+567,04105496,FAKHRIZAL ARDIANSYAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+568,04105994,NASHIHUL FAJRIYAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+569,04108318,SUSILAWATI,Chrome 97.0.4692.98,Android,114.79.4.250,"-6.5197657, 106.8505124","Kp,babakan cikeas rt005/004, Sentul, Kec. Babakan Madang, Kabupaten Bogor, Jawa Barat 16810, Indonesia"
+570,04111610,LINTANG AYU SETYANINGRUM,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2559987, 105.3133014","P8V7+JH8, Tulung Selapan Ilir, Tulung Selapan, Ogan Komering Ilir Regency, South Sumatra 30655, Indonesia"
+571,04112814,NAILI BEAUTIFLIANI,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+572,04112829,DEDI FARIZ MUNADZIR,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+573,04126643,TUMINI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+574,04164300,MAHFUDIN,Chrome 134.0.0.0,Android,114.79.0.16,"-6.3329108, 106.9437467","Pondok Indah Blk. K No.6, RT.009/RW.005, Jatisari, Kec. Jatiasih, Kota Bks, Jawa Barat 17426, Indonesia"
+575,04165785,"MARIA ULFA, SE",Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+576,04172537,HARUN ALRASYID,Chrome 142.0.0.0,Android,202.65.225.8,,
+577,04183004,MUZAIK ZUHUURIYAH KAMAS,Chrome 143.0.0.0,Android,202.65.238.247,,
+578,04186776,SRI RAHAYU,Dalvik/2.1.0 (Linux; U; Android 8.1.0; CPH1909 Build/O11019),Android,"202,125,100,100","-7.0173923, 108.9451095","Jl. Professor Dokter Satrio Kav No.1 Pamulihan, Kecamatan Larangan, Kabupaten Brebes, Jawa Tengah, Indonesia, 52262"
+579,04190646,ARISKA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+580,04193130,KHAIRUN NISA,Dalvik/2.1.0 (Linux; U; Android 14; CPH2505 Build/UKQ1.230924.001),Android,114.79.0.16,"0.6428768, 101.6078749","JJV5+57R Tualang, Kecamatan Tualang, Kabupaten Siak, Riau, Indonesia, 28685"
+581,04198198,OCAH,Chrome 93.0.4577.62,Android,114.79.4.250,"-6.683877, 106.8224468","8R8C+CX Ciherang Pondok, Bogor Regency, West Java, Indonesia"
+582,04198550,RAJA JELDI,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+583,04204964,LAKAH,Chrome 143.0.0.0,Android,202.65.238.247,,
+584,04206287,LIA KEMALA SARI,Chrome 143.0.0.0,Android,202.125.100.79,,
+585,04214832,ABDUL UTIN,Chrome 143.0.0.0,Android,114.79.5.36,,
+586,04229323,TEMY YULIANTI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+587,04232019,ROSWITA,Chrome 143.0.0.0,Android,116.254.97.223,,
+588,04234699,HERLY QAMARIYAH,Dalvik/2.1.0 (Linux; U; Android 14; SM-A055F Build/UP1A.231005.007),Android,202.125.100.79,"-5.5764761, 114.4221657","CCFC+JH5 Sukajeruk, Kecamatan Masalembu, Kabupaten Sumenep, Jawa Timur, Indonesia,"
+589,04234877,NUR SAFINA,Chrome 143.0.0.0,Android,202.65.238.247,,
+590,04244184,SUCI YUNIASARI,Chrome 143.0.0.0,Android,202.65.238.247,,
+591,04263559,REZKYNIA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+592,04265721,RAJA SIPAHUTAR,Chrome 143.0.0.0,Android,202.65.238.122,,
+593,04270379,MUHAMMAD SAYYID KAMAL ADAM,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+594,04276849,JELWISH MIRALDA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+595,04279399,WIDYAWAN ALMAARIF SUTTRA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+596,04283398,RUSMIYATI,Chrome 138.0.0.0,Android,114.79.4.250,"-0.4030179, 100.6001266","HJW2+J5G, Sungayang, Tanah Datar Regency, West Sumatra 27294, Indonesia"
+597,04296447,ODEH,Dalvik/2.1.0 (Linux; U; Android 12; V2204 Build/SP1A.210812.003),Android,114.79.4.250,"-6.3810274, 107.0730591","Kp. Leungsir RT 006 Jayasampurna, Kecamatan Serang Baru, Kabupaten Bekasi, Jawa Barat, Indonesia, 17330"
+598,04298209,ANDIK,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570583, 105.3132343","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+599,04314600,NARI MULIYABEKTI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+600,04338619,HERNAWATI,Chrome 106.0.0.0,Android,114.79.4.250,,
+601,04343227,ACHMAD KHOZINATUL ASROR,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570579, 105.3132353","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+602,04343366,DEWI SARTIKA,Chrome 117.0.0.0,Android,114.79.5.36,"-0.3490522, 100.2240918","M62F+74J, Batang River, Tanjung Raya, Agam Regency, West Sumatra 26471, Indonesia"
+603,04353666,VICKY YUSWANTI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+604,04361070,MOCHAMMAD ATH THARIQ,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+605,04366184,ZAHRA NADHIRAH,Dalvik/2.1.0 (Linux; U; Android 11; SM-A505F Build/RP1A.200720.012),Android,114.79.4.250,"-6.4055445, 106.7361799","Jl. Pasiron No.89 Curug, Kecamatan Bojongsari, Kota Depok, Jawa Barat, Indonesia, 16517"
+606,04376629,LAILATUL MUSFIROH,Dalvik/2.1.0 (Linux; U; Android 13; V2310 Build/TP1A.220624.014),Android,114.79.0.16,"-5.2353747, 104.904748","QW73+XW8 Sendang Mulyo, Gunung Sugih, Central Lampung Regency, Lampung, Indonesia, 35376"
+607,04392345,RATNA WATI,Chrome 114.0.0.0,Android,114.79.5.36,"-6.2580236, 106.9169037","Gg. 4 Jl. Curug Cempaka Blok 03 No.114, RT.005/RW.21, Jaticempaka, Kec. Pd. Gede, Kota Bks, Jawa Barat 17411, Indonesia"
+608,04392983,MAWAR TANJUNG,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132354","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+609,04400103,AGUS SALIM,Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6833B Build/TP1A.220624.014),Android,202.65.225.8,"-3.2570676, 105.313227","Nomor 25 rt01 Tulung Selapan Ilir, Kecamatan Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan, Indonesia, 30655"
+610,04404231,ARFAN SYAHPUTRA,Chrome 143.0.0.0,Android,116.254.97.223,,
+611,04405502,RIANI FEBRYANTI,Chrome 142.0.0.0,Android,202.65.225.8,,
+612,04407369,MALA,Chrome 143.0.0.0,Android,202.65.238.247,,
+613,04408410,SURATMI,Chrome 143.0.0.0,Android,202.65.238.247,,
+614,04416004,LEHA,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+615,04430636,SUGIATIK,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+616,04432844,NURAIN LADAM,Chrome 130.0.0.0,Android,116.254.97.223,"-1.3339681, 127.6396825","MJ8Q+5P4, Laiwui, Obi, South Halmahera Regency, North Maluku, Indonesia"
+617,04435333,SUHARI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+618,04435345,HASMIDAR HARAHAP,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+619,04440072,MURNIATI BR MUNTHE,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570638, 105.3132288","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+620,04443357,YULI AZMIYATI,Dalvik/2.1.0 (Linux; U; Android 11; SM-A125F Build/RP1A.200720.012),Android,116.254.97.121,"-1.7879778, 103.2082952","6665+P6M Sridadi, Jambi, Batang Hari Regency, Jambi, Indonesia, 36613"
+621,04451544,RUSDI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+622,04459454,NITA HERLIANA WATI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570317, 105.3132266","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+623,04470492,MELY KURNIASIH,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+624,04484125,ZULHAYATI,Chrome 133.0.0.0,Android,114.79.0.16,"-0.2637934, 100.5311935","PGPJ+JF8, Jl. Raya Bukittinggi - Payakumbuh, Padang Tarok, Kec. Baso, Kabupaten Lima Puluh Kota, Sumatera Barat 26192, Indonesia"
+625,04485818,SYAIPUL BAHRI RITONGA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+626,04494066,MOH. SAFI'I ABDILLAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+627,04494577,TUFFAH CHOIRIYYAH,Chrome 143.0.0.0,Android,202.65.239.9,,
+628,04499480,M. SAPI'I,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+629,04501289,JANIM ARITONANG,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+630,04501350,SYAL ARFAH S.PD,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+631,04501523,SUPARDI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+632,04503925,TIKA LESTARI,Chrome 143.0.0.0,Android,202.65.238.247,,
+633,04520012,EKAWATI SUPARMIN,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+634,04520442,"MAMLUATUL KHIKAYAH, SE",Chrome 143.0.0.0,Android,114.79.5.36,"-3.2564283, 105.313635","P8V7+JH8, Tulung Selapan Ilir, Tulung Selapan, Ogan Komering Ilir Regency, South Sumatra 30655, Indonesia"
+635,04520796,YUNA,Chrome 108.0.0.0,Android,114.79.0.16,UNKNOWN,
+636,04547158,DIAN PURNAMAWATI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+637,04550049,EDI SANTOSO,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+638,04553837,RIJALUL HIDAYAT,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+639,04554641,SRIMPIANI LESTARI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132345","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+640,04560286,HALIMATUS SADIYA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570586, 105.3132358","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+641,04570044,AGUS TRI WINARNO,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570582, 105.3132332","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+642,04570124,YULI LESTARI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+643,04570549,YAHYA AULIA MAULANA SOORKATI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+644,04570616,AMINATUS SHOLICHAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+645,04570912,TEGUH RIYANTO,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+646,04571001,ADRI KURNIAWAN,Chrome 143.0.0.0,Android,114.79.5.36,,
+647,04571012,DIMAS ADIRA WIBISONO,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570582, 105.3132332","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+648,04571167,RIZKI HERMAWAN,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+649,04571536,SUTARNI,Chrome 143.0.0.0,Android,114.79.5.36,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+650,04571559,SUMARTI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+651,04571651,RINA ISWATI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+652,04571657,RIZAL AGUNG PANGESTU,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570582, 105.3132332","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+653,04572730,SITI MARATUN NI'MAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+654,04575419,AZHARIL MUKHTAR RITONGA,Chrome 143.0.0.0,Android,202.65.225.242,,
+655,04576027,SITI UMMATUN KHASANAH,Chrome 143.0.0.0,Android,202.65.238.247,,
+656,04576518,DINA LAILATUL MARHAMAH,Chrome 143.0.0.0,Android,202.65.238.122,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+657,04582938,MI PASIRWARU,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570581, 105.3132337","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+658,04582986,AINA MAWARDAH OKTAVIANI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+659,04592708,UJIONO,Chrome 143.0.0.0,Android,202.65.239.9,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+660,04592739,FITRIA MARDIKANINGRUM,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+661,04594090,ISIL PURNAMA SARI,Dalvik/2.1.0 (Linux; U; Android 13; SM-A035F Build/TP1A.220624.014),Android,114.79.0.16,,
+662,04611562,"MOHAMAD RIZALDI YUSUF , S.KOM",Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570581, 105.3132337","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+663,04612333,SUNARDI,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+664,04612343,RADEN WINDY WIBISONO A.MD,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+665,04641263,SITI RISTIANA,Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6525B Build/TP1A.220624.014),Android,114.79.0.16,"-6.3945976, 106.8441453","Jl. Musholla 1 Blok Mushola 3 No.50 Abadijaya, Kecamatan Sukmajaya, Kota Depok, Jawa Barat, Indonesia, 16417"
+666,04641582,ISTADI,Chrome 129.0.0.0,Android,114.79.5.36,"-6.4039513, 106.9829608","kp sawah rt 006 rw 002 no 169, Cileungsi Kidul, Kec. Cileungsi, Kabupaten Bogor, Jawa Barat 16820, Indonesia"
+667,04651557,YULIANA,Chrome 143.0.0.0,Android,202.65.225.242,UNKNOWN,
+668,04657234,HABIBULLAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+669,04657238,DAHNELY,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+670,04660163,ARI WISRA PUTRA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+671,04667668,RENI MERDIYANTI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+672,04677099,SRI NURJANAH,Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.7.0.QCRIDXM),Android,114.79.0.16,"0.4783417, 101.5023833","Jl. At-Thoiba No.9 Tengkerang Timur, Kecamatan Tenayan Raya, Kota Pekanbaru, Riau, Indonesia, 28289"
+673,04681376,ADZKIYA ANDARI HAFSHAH,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+674,04681856,"RATNA AMLIS, BA",Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570494, 105.3132286","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+675,04682101,NANANG SULISTYA,Chrome 143.0.0.0,Android,114.79.5.36,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+676,04692515,SUPRIYATI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+677,04708681,DEFRIANA LARASANTI. A,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+678,04722033,ETTI SUMIATI SIREGAR,Chrome 142.0.0.0,Android,116.254.97.121,"-3.2570581, 105.3132349","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+679,04733396,SRI WIDODO,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+680,04737393,NISA NURSYIFA YANTI,Chrome 126.0.0.0,Android,116.254.97.223,"-6.1568412, 106.5670856","Jl. Merkurius 2 Blok D6 No.18, Kutabumi, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560, Indonesia"
+681,04738356,NUR AISYAH,Dalvik/2.1.0 (Linux; U; Android 12; V2027 Build/SP1A.210812.003),Android,"202,125,100,100","-5.2165243, 119.7040633","QPM3+4H5 Borisalo, Parangloe, Gowa Regency, South Sulawesi, Indonesia, 92173"
+682,04767363,SUCI RETNAWATI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+683,04785562,NGATINI,Dalvik/2.1.0 (Linux; U; Android 15; 25028RN03A Build/AP3A.240905.015.A2),Android,"103,228,242,222","4.5039604, 97.8765402","GV3G+VQ6 Alue Teh, Birem Bayeun, East Aceh Regency, Aceh, Indonesia, 24455"
+684,04792791,KAMARUDDIN,Chrome 143.0.0.0,Android,202.125.100.79,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+685,04810073,MURHADIANIS,Chrome 142.0.0.0,Android,114.79.0.16,"-0.4685729, 100.3869333","Jl. Rasuna Said No.Rt 23, Kp. Manggis, Kec. Padang Panjang Bar., Kota Padang Panjang, Sumatera Barat 27118, Indonesia"
+686,04812501,SITI NUR FAIZAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132354","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+687,04819758,ANITA MUSTIKA SARI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+688,04839577,MASWANDI,Chrome 143.0.0.0,Android,202.125.100.79,,
+689,04853316,SANTI FITRIANI,Chrome 118.0.0.0,Android,114.79.0.16,"0.6334332, 101.3939257","J9MV+5JR, Jl. Tengku Kasim Prakasa, Rumbai Bukit, Kec. Rumbai, Kota Pekanbaru, Riau 28264, Indonesia"
+690,04871434,NENDEN ARIYAH,Chrome 143.0.0.0,Android,202.65.239.9,,
+691,04877039,MOCHAMAD ANDRIANSYAH,Chrome 113.0.0.0,Android,114.79.4.250,UNKNOWN,
+692,04884894,MIMAN SULAIMAN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+693,04896034,TARSIM SAEPUDIN,Dalvik/2.1.0 (Linux; U; Android 12; V2027 Build/SP1A.210812.003),Android,114.79.5.36,"-6.3027056, 107.0891131","Jalan Pondok Ungu No.99 Medan Satria, Kecamatan Medan Satria, Kabupaten Bekasi, Jawa Barat, Indonesia, 17132"
+694,04906912,SUHARTATI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+695,04909776,HAFIDZHAH AULIA RAHMA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+696,04926330,ITA HERITA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+697,04951442,WAHYU ZAIN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+698,04967175,ZULMAIRICI,Chrome 142.0.0.0,Android,114.79.4.250,"-0.4685687, 100.3869467","Jl. Rasuna Said No.Rt 23, Kp. Manggis, Kec. Padang Panjang Bar., Kota Padang Panjang, Sumatera Barat 27118, Indonesia"
+699,04977375,HILMAWAN  SUTAMI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132343","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+700,04990883,SITI MARIYAM,Chrome 93.0.4577.62,Android,114.79.4.250,UNKNOWN,
+701,05030873,HANIK AFIFAH,Chrome 143.0.0.0,Android,116.254.97.223,,
+702,05038467,WISNANALIA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570579, 105.3132355","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+703,05038474,YUSMIATI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+704,05042053,YANAH,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+705,05048117,SILASAFITRI CIPTONINGJATI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+706,05051129,NINING WIDIANINGSIH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+707,05054510,HUSNI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570583, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+708,05054735,HARTINI,Chrome 143.0.0.0,Android,116.254.97.223,,
+709,05062882,DZAKHWAN HARIZ QAISER,Dalvik/2.1.0 (Linux; U; Android 9; vivo 2007 Build/PKQ1.190616.001),Android,114.79.5.36,"-6.2229147, 106.4241369","Jl. Raya Serang No.Km 29 Gembong, Kecamatan Balaraja, Kabupaten Tangerang, Banten, Indonesia, 15610"
+710,05068259,ARIYANTI,Dalvik/2.1.0 (Linux; U; Android 13; SM-A515F Build/TP1A.220624.014),Android,"202,125,100,100","-1.1214789, 101.8723489",-
+711,05072195,IRVIANA SARI.S.PD,Dalvik/2.1.0 (Linux; U; Android 10; Infinix X682C Build/QP1A.190711.020),Android,114.79.5.36,"-6.249093, 106.5027611","Jl. Cibarengkok Peusar, Kecamatan Panongan, Kabupaten Tangerang, Banten, Indonesia, 15710"
+712,05076702,NURHIDAYATI,Chrome 143.0.0.0,Android,114.79.4.250,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+713,05079489,CUT ALVI KHAIRATI,Chrome 113.0.0.0,Android,114.79.4.250,"-6.4694277, 107.6074495","GJJ5+52C, Sawangan, Cipeundeuy, Subang Regency, West Java 41272, Indonesia"
+714,05080148,M.ALI AKBAR,Dalvik/2.1.0 (Linux; U; Android 12; vivo 1938 Build/SP1A.210812.003),Android,202.65.225.8,"4.4099462, 98.156204","C564+3V8 Tanjung Lipat I, Bendahara, Aceh Tamiang Regency, Aceh, Indonesia, 24472"
+715,05084480,OSIH WARISAH,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+716,05088503,YESI ANGRAINI,Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+717,05093665,KAKAH SARTIKA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570582, 105.3132348","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+718,05100564,SRI WAHYUNI,Dalvik/2.1.0 (Linux; U; Android 11; Infinix X688B Build/RP1A.200720.011),Android,114.79.5.36,"1.1549872, 104.0185838","5239+XF4 Kampung Seraya, Kecamatan Batu Ampar, Kota Batam, Kepulauan Riau, Indonesia, 29444"
+719,05105460,NANDA KIRANI,Chrome 143.0.0.0,Android,116.254.97.223,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+720,05105600,GUSTIA FAJRIO,Chrome 142.0.0.0,Android,116.254.97.121,,
+721,05107424,ILHAMY SYDDIQ,Chrome 143.0.0.0,Android,202.125.100.79,,
+722,05108832,MOKHAMAD AGUS FAHRUDIN,Chrome 143.0.0.0,Android,114.79.5.36,"-3.2570584, 105.3132346","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+723,05110481,NUR SIDI,Chrome 143.0.0.0,Android,202.65.238.122,,
+724,05112074,JULIANA,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+725,05112882,NURHALIM,Chrome 114.0.0.0,Android,114.79.4.250,"-6.1732837, 106.5826663","Jl. Lantana 4 No.D 03-No 2, RT.003/RW.011, Gembor, Kec. Periuk, Kota Tangerang, Banten 15132, Indonesia"
+726,05113171,BARKAH FIRIZKA,Chrome 99.0.4844.88,Android,114.79.4.250,,
+727,05120377,IKA MULYASARI,Chrome 143.0.0.0,Android,202.125.100.79,"-3.257058, 105.313235","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+728,05127941,YUSRI,Dalvik/2.1.0 (Linux; U; Android 11; V2131 Build/RP1A.200720.012),Android,114.79.4.250,"-2.918879, 104.8144327","3RJ7+FR9 Sako, Kecamatan Sako, Kota Palembang, Sumatera Selatan, Indonesia, 30961"
+729,05145333,SUCI ANANDA PUTRI,Chrome 142.0.0.0,Android,114.79.0.16,"-0.4644681, 100.3875155","Jl. Sutan Syahrir No.84, Silaing Bawah, Kec. Padang Panjang Bar., Kota Padang Panjang, Sumatera Barat 27118, Indonesia"
+730,05151477,IDA FARIDA,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570581, 105.3132337","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+731,05154195,SITI ZUBAIDAH,Chrome 143.0.0.0,Android,202.65.225.242,,
+732,05154210,IKA SITI PURWANTI,Chrome 143.0.0.0,Android,202.65.239.9,,
+733,05162820,DEDI MULIA CANDRA,Dalvik/2.1.0 (Linux; U; Android 14; SM-A047F Build/UP1A.231005.007),Android,202.65.239.126,"-1.4871915, 102.1093739","G475+3RM Sungai Pinang, Kecamatan Bungo Dani, Kabupaten Bungo, Jambi, Indonesia, 37211"
+734,05179808,DIAN SETIYAWAN,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570584, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+735,05229512,EPIH NURHAYATI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+736,05231062,NUR AFNAN ATHALLAH,Dalvik/2.1.0 (Linux; U; Android 13; V2131 Build/TP1A.220624.014),Android,114.79.4.250,"-2.9445561, 104.7336997","Jl. Sukabangun 1 No.2 Suka Bangun, Kecamatan Sukarami, Kota Palembang, Sumatera Selatan, Indonesia, 30961"
+737,05245280,ZULFA FAUZATUL JANNAH,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570638, 105.3132288","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+738,05247902,SUCI DINURYATI,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+739,05247904,M. ZANI UMAZA,Chrome 142.0.0.0,Android,202.65.225.8,"-3.2612612612612613, 105.32372402603887","P8QF+FF Tulung Selapan Ilir, Ogan Komering Ilir Regency, South Sumatra, Indonesia"
+740,05256130,YENIH,Chrome 133.0.0.0,Android,114.79.4.250,"-6.6733754, 106.8099102","8RG5+PG, Cipicung, Cijeruk, Bogor Regency, West Java, Indonesia"
+741,05256585,DENY PUSPITASARI,Chrome 143.0.0.0,Android,202.65.238.247,"-3.2570585, 105.3132347","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+742,05258438,ZUBAIR AL JUFRI,Chrome 137.0.0.0,Android,202.65.239.126,"-0.5037008, 109.3953629","F9WW+H3C, Kubu, Kubu Raya Regency, West Kalimantan 78384, Indonesia"
+743,05265337,AINI,Chrome 136.0.0.0,Android,114.79.4.250,"-3.2539951, 104.6837447","PMWM+CC8, Sakatiga, Indralaya, Ogan Ilir Regency, South Sumatra 30817, Indonesia"
+744,05268592,FITRIE YUNIATI,Dalvik/2.1.0 (Linux; U; Android 9; CPH2083 Build/PPR1.180610.011),Android,114.79.5.36,"-6.1824334, 106.8703871","Jl. Rawasari Bar. X No.43 Cempaka Putih Timur, Kecamatan Cempaka Putih, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta, Indonesia, 10510"
+745,05268836,WILDAN PADILAH,Chrome 129.0.0.0,Android,114.79.5.36,"-6.7207376, 107.4545615","7FH4+P2W, Wargasaluyu, Kec. Cikalong Wetan, Kabupaten Bandung Barat, Jawa Barat, Indonesia"
+746,05286335,SYIFA NURUL AZKIYA,Chrome 126.0.0.0,Android,114.79.4.250,"-6.2368539, 106.9554863","Jl. Bintara IX Jl. Al-Wathoniyah No.85, RT.002/RW.001, Bintara Jaya, Kec. Bekasi Bar., Kota Bks, Jawa Barat 17136, Indonesia"
+747,05314285,YANIH,Dalvik/2.1.0 (Linux; U; Android 13; 2201117TY Build/TKQ1.221114.001),Android,114.79.4.250,"-6.6694039, 106.6593851","8MJ5+4VC Gunung Sari, Kecamatan Pamijahan, Kabupaten Bogor, Jawa Barat, Indonesia, 16810"
+748,05321735,ARYA EKA FIRMANSYAH,Dalvik/2.1.0 (Linux; U; Android 14; SM-A156E Build/UP1A.231005.007),Android,114.79.5.36,"-6.1693111, 106.7045891","Jl. Masjid Istiqomah No.3 Semanan, Kecamatan Kalideres, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta, Indonesia, 11850"
+749,05327046,IDA FITRIANI,Dalvik/2.1.0 (Linux; U; Android 13; 23028RN4DG Build/TP1A.220624.014),Android,114.79.0.16,"-2.9307984, 104.666555","3M98+JQM Bukit Baru, Ilir Barat I, Palembang City, South Sumatra, Indonesia, 30155"
+750,05331011,NASIR SIRUN,Dalvik/2.1.0 (Linux; U; Android 11; CPH2209 Build/RP1A.200720.011),Android,114.79.4.250,"-6.1764408, 106.9353508","Jl. Tipar Cakung Blok Amit No.11 Cakung Barat, Kecamatan Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta, Indonesia, 13910"
+751,05350707,RIFDA MEIDA DANIATI SA'ADAH,Chrome 143.0.0.0,Android,116.254.97.223,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
+752,05355285,GUSTRI HERFANI,Dalvik/2.1.0 (Linux; U; Android 10; M2006C3MG MIUI/V12.0.9.0.QCRIDXM),Android,114.79.4.250,"0.4398975, 101.3673346","C9R8+2W6 Tuah Karya, Tampan, Pekanbaru City, Riau, Indonesia, 28293"
+753,05364873,NUR AINUN,Chrome 132.0.0.0,Android,114.79.0.16,"0.5942799, 101.8038094","HRV3+QHQ, Rawang Kao, Lubuk Dalam, Siak Regency, Riau 28671, Indonesia"
+754,05370938,SITI FAUZIAH,Dalvik/2.1.0 (Linux; U; Android 14; SM-A155F Build/UP1A.231005.007),Android,114.79.4.250,"-2.1533732, 106.0616144","Jalan Tanpa Nama Kace, Kecamatan Mendo Barat, Kabupaten Bangka, Kepulauan Bangka Belitung, Indonesia,"
+755,05374530,RICI PUSFHY,Chrome 138.0.0.0,Android,202.65.238.122,UNKNOWN,
+756,05413918,MUHAMMAD IRSYAD,Dalvik/2.1.0 (Linux; U; Android 9; vivo 2007 Build/PKQ1.190616.001),Android,114.79.0.16,"-3.3587152, 104.6256455","Jl. Pahlawan Abu Sama No.104 Tanjung Atap Barat, Kecamatan Tanjung Batu, Kabupaten Ogan Ilir, Sumatera Selatan, Indonesia, 30664"
+757,05444573,HERLINA,Dalvik/2.1.0 (Linux; U; Android 14; SM-A135F Build/UP1A.231005.007),Android,116.254.97.223,"0.7933684, 109.1929288","Q5VV+QRP Marunsu, Samalantan, Bengkayang Regency, West Kalimantan, Indonesia,"
+758,05470601,FARIDA,Dalvik/2.1.0 (Linux; U; Android 15; V2250 Build/AP3A.240905.015.A2),Android,114.79.4.250,"-6.3139709, 106.8313735","Jl. Kebagusan IV No.RT 012/04 NO 19 Kebagusan, Pasar Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia, 12520"
+759,05477014,SAFITRI YAHYA,Dalvik/2.1.0 (Linux; U; Android 14; V2205 Build/UP1A.231005.007),Android,202.65.239.126,"1.1911132, 117.5317311","5GRM+QHQ Baay, Karangan, East Kutai Regency, East Kalimantan, Indonesia, 75684"
+760,05496285,ANNA SUHAENA LAUNURU,Dalvik/2.1.0 (Linux; U; Android 14; 23053RN02A Build/UP1A.231005.007),Android,202.65.225.8,"0.8178141, 127.388056","R99Q+35P Dufa Dufa, Kota Ternate Utara, Ternate City, North Maluku, Indonesia,"
+761,05505448,NURANITA,Dalvik/2.1.0 (Linux; U; Android 11; SM-A225F Build/RP1A.200720.012),Android,202.65.238.122,"3.6558009, 108.0508824","M342+JG3 Selading, Tiga Island, Natuna Regency, Riau Islands, Indonesia,"
+762,05513571,DUWI YANIK HAMITRI S. PD,Chrome 135.0.0.0,Android,202.125.100.79,"-5.576602, 114.4224307","CCFC+JH5, Ambulung, Sukajeruk, Kec. Masalembu, Kabupaten Sumenep, Jawa Timur, Indonesia"
+763,05532144,M BAEDOWI,Dalvik/2.1.0 (Linux; U; Android 15; V2250 Build/AP3A.240905.015.A2),Android,114.79.4.250,"-6.3141289, 106.8312459","Jl. Kebagusan IV No.RT 012/04 NO 19 Kebagusan, Pasar Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta, Indonesia, 12520"
+764,05595226,RESTI MUSTIKA SARI,Chrome 140.0.0.0,Android,114.79.0.16,"-6.6238175, 106.6598896","9MG5+9Q8, Jl. KH. Abdul Hamid, Situ Udik, Kec. Cibungbulang, Kabupaten Bogor, Jawa Barat 16630, Indonesia"
+765,05600441,NUR AZIZAH,Chrome 139.0.0.0,Android,114.79.4.250,"-6.2022302, 106.9620425","Jl. Raya Rw. Kuning No.30, RT.4/RW.16, Pulo Gebang, Kec. Cakung, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13950, Indonesia"
+766,05652419,JUMILA,Chrome 141.0.0.0,Windows 10,202.65.238.247,"-1.157495, 116.9734685","Perum mutiara asri Blok c3 Lamaru, Teritip, Kec. Balikpapan Tim., Kota Balikpapan, Kalimantan Timur 76118, Indonesia"
+767,05663196,IRMA WAHYUNI,Chrome 126.0.0.0,Android,114.79.4.250,"-6.3533091, 107.6591112","JMW5+PHF, Dusun Sengon Lio, RT.41/RW.19, Sukamandijaya, Kec. Ciasem, Kabupaten Subang, Jawa Barat, Indonesia"
+768,05683770,OKTOPIA MOTE,Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6833B Build/TP1A.220624.014),Android,"103,228,242,222","-3.2570628, 105.3132276","Nomor 25 rt01 Tulung Selapan Ilir, Kecamatan Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan, Indonesia, 30655"
+769,05684085,YEPINA MATUAN,Chrome 143.0.0.0,Android,202.65.225.242,"-3.2570579, 105.3132352","Nomor 25 rt01,rw01,dusun, Tulung Selapan Ilir, Kec. Tulung Selapan, Kabupaten Ogan Komering Ilir, Sumatera Selatan 30655, Indonesia"
